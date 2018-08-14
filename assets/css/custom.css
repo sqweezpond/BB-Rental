@@ -250,7 +250,6 @@ body {
     color: #333333;
     font-weight: 400;
     text-align: center;
-    margin-top: 10px;
 }
 
 /* courasel */
@@ -293,16 +292,16 @@ body {
 .home-overlay-image{
     position: relative;
     height: 29vmin;
-    width: 70%;
+    width: 55%;
     overflow: hidden;
-    margin-left: 33px;
+    margin-left: 45px;
 }
 .home-overlay-image2 {
     position: relative;
     height: 29vmin;
     width: 90%;
     overflow: hidden;
-    margin-left: 6px;
+    margin-left: 10px;
 }
 .home-image-full {
     position: absolute;
