@@ -461,6 +461,67 @@ body {
 
 
 
+/*-------------------------------------
+------------- CONDITION ----------------
+---------------------------------------*/
+.con-font{
+    font-size: 18px;
+    font-weight: 500;
+}
+.con-font2{
+    font-size: 16px;
+    font-weight: 400;
+}
+.con-font3{
+    font-size: 15px;
+    font-weight: 300;
+    padding-top: 5px;
+}
+.con-bg {
+    padding: 10px 20px 10px 10px;
+    font-size: 20px;
+    position: relative;
+    color: #333333;
+    background: #f5e100;
+}
+.con-bg:after {
+    content: " ";
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background: #f5e100;
+    transform-origin: top left;
+    -ms-transform: skew(-30deg, 0deg);
+    -webkit-transform: skew(-30deg, 0deg);
+    transform: skew(30deg, 0deg);
+}
+.con-overlay-image {
+    position: relative;
+    height: 5vmin;
+    width: 41%;
+    overflow: hidden;
+}
+.con-image-full {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.con-block{
+    border: 2px solid #35379d;
+    padding: 20px;
+    border-radius: 0px;
+}
+/*-------------------------------------
+----------- END CONDITION ----------------
+---------------------------------------*/
 
 
 
@@ -667,8 +728,125 @@ body {
   ---------- END HOME 575.98 ------------
   ---------------------------------------*/
 
+  /*-------------------------------------
+  ---------- CONDITION 575.98 ------------
+  ---------------------------------------*/
+  .con-font {
+      font-size: 15px;
+      font-weight: 500;
+  }
+  .con-font2 {
+      font-size: 13px;
+      font-weight: 400;
+  }
+  .con-font3 {
+      font-size: 12px;
+      font-weight: 300;
+      padding-top: 5px;
+  }
+  .con-bg {
+      padding: 10px 20px 10px 10px;
+      font-size: 20px;
+      position: relative;
+      width: 90%;
+      color: #333333;
+      background: #f5e100;
+  }
+  .con-overlay-image {
+      position: relative;
+      height: 12vmin;
+      width: 41%;
+      overflow: hidden;
+  }
+  /*-------------------------------------
+  -------- END CONDITION 575.98 ------------
+  ---------------------------------------*/
 }
 
+@media (max-width: 568px) and (max-height: 320px){
+
+  /*-------------------------------------
+  ------- HOME iphone 5 landscape -------
+  ---------------------------------------*/
+  .home-overlay-image {
+      position: relative;
+      height: 75vmin;
+      width: 25%;
+      overflow: hidden;
+      left: 38%;
+  }
+  .owl-carousel .owl-nav button.owl-prev {
+      color: #333333;
+      border: none;
+      font-size: 60px;
+      transition: all 0.3s;
+      position: absolute;
+      top: 28%;
+      left: 10%;
+  }
+ .owl-carousel .owl-nav button.owl-next {
+      color: #333333;
+      border: none;
+      font-size: 60px;
+      transition: all 0.3s;
+      position: absolute;
+      top: 28%;
+      right: 10%;
+  }
+ .home-overlay-image3 {
+      position: relative;
+      height: 70vmin;
+      width: 40%;
+      overflow: hidden;
+      left: 28%;
+  }
+  .home-banner1 {
+      background-image: url(../../assets/images/banner/banner-1.jpg);
+      width: 100%;
+      height: 350px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(1px);
+      background-color: #3d3ea78f;
+      background-blend-mode: multiply;
+  }
+  .home-banner2 {
+      background-image: url(../../assets/images/banner/banner-2.jpg);
+      width: 100%;
+      height: 350px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(1px);
+      background-color: #3d3ea78f;
+      background-blend-mode: multiply;
+  }
+  .home-banner3 {
+      background-image: url(../../assets/images/banner/banner-3.jpg);
+      width: 100%;
+      height: 350px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(1px);
+      background-color: #3d3ea78f;
+      background-blend-mode: multiply;
+  }
+/*-------------------------------------
+------ END HOME iphone 5 landscape -------
+---------------------------------------*/
+
+  /*-------------------------------------
+  ------ CONDITION iphone 5 landscape --------
+  ---------------------------------------*/
+  .con-overlay-image {
+      position: relative;
+      height: 24vmin;
+      width: 41%;
+      overflow: hidden;
+  }
+  /*-------------------------------------
+  ---- END CONDITION iphone 5 landscape ------
+  ---------------------------------------*/
+}
 
 /*=Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) {
@@ -753,6 +931,134 @@ body {
       transform: skew(-50deg);
   }
   /*----------- END FOOTER 576 --------------------*/
+
+  /*-------------------------------------
+  -------------- HOME 576 ---------------
+  ---------------------------------------*/
+  .home-font {
+      font-size: 22px;
+      color: #333333;
+      font-style: italic;
+      font-weight: 500;
+  }
+  .home-font2 {
+      font-size: 16px;
+      color: #35379d;
+      font-weight: 500;
+      border-left: 7px solid #35379d;
+      border-right: 7px solid #35379d;
+  }
+  .home-font3 {
+      font-size: 15px;
+      color: #333333;
+      font-style: italic;
+      font-weight: 400;
+      border-right: 7px solid #35379d;
+      padding-left: 40px;
+      padding-right: 40px;
+  }
+  .home-font4 {
+      font-size: 9px;
+      color: #333333;
+      font-weight: 400;
+      text-align: center;
+  }
+  .home-font5 {
+      font-size: 15px;
+      color: #333333;
+      font-weight: 400;
+      font-style: italic;
+      border-left: 7px solid #35379d;
+      border-right: 7px solid #35379d;
+      padding-left: 40px;
+      padding-right: 40px;
+  }
+  .owl-carousel .owl-nav button.owl-next {
+      color: #333333;
+      border: none;
+      font-size: 40px;
+      transition: all 0.3s;
+      position: absolute;
+      top: 19%;
+      right: -5%;
+  }
+  .owl-carousel .owl-nav button.owl-prev {
+      color: #333333;
+      border: none;
+      font-size: 40px;
+      transition: all 0.3s;
+      position: absolute;
+      top: 19%;
+      left: -5%;
+  }
+  .owl-carousel .owl-nav button.owl-next:hover, .owl-carousel .owl-nav button.owl-prev:hover{
+      color: #999;
+      border: none;
+      font-size: 40px;
+      background-color: unset;
+      transition: all 0.3s;
+  }
+  .home-banner1 {
+      background-image: url(../../assets/images/banner/banner-1.jpg);
+      width: 100%;
+      height: 430px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(1px);
+      background-color: #3d3ea78f;
+      background-blend-mode: multiply;
+  }
+  .home-banner2 {
+      background-image: url(../../assets/images/banner/banner-2.jpg);
+      width: 100%;
+      height: 430px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(1px);
+      background-color: #3d3ea78f;
+      background-blend-mode: multiply;
+  }
+  .home-banner3 {
+      background-image: url(../../assets/images/banner/banner-3.jpg);
+      width: 100%;
+      height: 430px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(1px);
+      background-color: #3d3ea78f;
+      background-blend-mode: multiply;
+  }
+  .home-overlay-image {
+      position: relative;
+      height: 35vmin;
+      width: 55%;
+      overflow: hidden;
+      left: 22%;
+  }
+  .home-overlay-image3 {
+      position: relative;
+      height: 34vmin;
+      width: 85%;
+      overflow: hidden;
+      left: 13px;
+  }
+  /*-------------------------------------
+  ----------- END HOME 576 ---------------
+  ---------------------------------------*/
+
+
+  /*-------------------------------------
+  -------- CONDITION 576 ------------
+  ---------------------------------------*/
+  .con-overlay-image {
+      position: relative;
+      height: 23vmin;
+      width: 41%;
+      overflow: hidden;
+  }
+  /*-------------------------------------
+  -------- END CONDITION 576 ------------
+  ---------------------------------------*/
 }
 
 
@@ -959,6 +1265,19 @@ body {
   /*-------------------------------------
   ----------- END HOME 768 --------------
   ---------------------------------------*/
+
+  /*-------------------------------------
+  ----------- CONDITION 768 --------------
+  ---------------------------------------*/
+  .con-overlay-image {
+      position: relative;
+      height: 6vmin;
+      width: 41%;
+      overflow: hidden;
+  }
+  /*-------------------------------------
+  --------- END CONDITION 768 -----------
+  ---------------------------------------*/
 }
 
 
@@ -1136,7 +1455,20 @@ body {
       left: 27px;
   }
   /*-----------------------------------
-  -------------- END HOME 992 -------------
+  ------------ END HOME 992 -----------
+  -------------------------------------*/
+
+  /*-----------------------------------
+  ------------ CONDITION 992 -----------
+  -------------------------------------*/
+  .con-overlay-image {
+      position: relative;
+      height: 4vmin;
+      width: 41%;
+      overflow: hidden;
+  }
+  /*-----------------------------------
+  ---------- END CONDITION 992 -----------
   -------------------------------------*/
 }
 
@@ -1158,6 +1490,21 @@ body {
   /*----------- END NAVBAR 1200 --------------*/
 
   /*----------- FOOTER 1200 --------------------*/
+  .footer-bg2{
+      background-color: #f8e800;
+      padding: 10px;
+      -ms-transform: skewY(50deg); /* IE 9 */
+      -webkit-transform: skewY(20deg); /* Safari 3-8 */
+      transform: skew(50deg);
+  }
+  .footer-font{
+      font-size: 13px;
+      color: #333333;
+      font-weight: 300;
+      -ms-transform: skewY(-50deg); /* IE 9 */
+      -webkit-transform: skewY(-50deg); /* Safari 3-8 */
+      transform: skew(-50deg);
+  }
   /*----------- END FOOTER 1200 -----------------*/
 
   /*-----------------------------------
@@ -1387,8 +1734,21 @@ body {
   }
   /* end overlay2 */
   /*-------------------------------------
-  ------------- END HOME 1200 ----------------
+  ----------- END HOME 1200 -------------
   ---------------------------------------*/
+
+  /*-----------------------------------
+  ------------ CONDITION 1200 -----------
+  -------------------------------------*/
+  .con-overlay-image {
+      position: relative;
+      height: 5vmin;
+      width: 41%;
+      overflow: hidden;
+  }
+  /*-----------------------------------
+  ---------- END CONDITION 1200 -----------
+  -------------------------------------*/
 }
 
 @media (min-width: 1600px) {

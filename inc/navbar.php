@@ -58,8 +58,8 @@
 							<div class="navbar px-0">
 								  <a href="index.php">หน้าหลัก</a>
 								  <a href="#" class="nav-m-l">เกี่ยวกับบริษัท</a>
-									<a href="#" class="nav-m-l">เงื่อนไขการเช่า</a>
-									<a href="#" class="nav-m-l">ประวัติการเช่า</a>
+									<a href="condition.php" class="nav-m-l">เงื่อนไขการเช่า</a>
+									<a href="brand.php" class="nav-m-l">ประวัติการเช่า</a>
 								  <div class="dropdown nav-m-l">
 									    <button class="dropbtn">เครื่องจักรสำหรับเช่า</button>
 									    <div class="dropdown-content">
@@ -75,7 +75,7 @@
 									    </div>
 								  </div>
 									<a href="#" class="nav-m-l">ฝ่ายบริการ</a>
-									<a href="#" class="nav-m-l">ติดต่อเรา</a>
+									<a href="contact.php" class="nav-m-l">ติดต่อเรา</a>
 							</div>
 					</div>
 			</div>
@@ -87,7 +87,7 @@
 	<div class="d-block d-md-block d-lg-none">
 			<nav class="navbar navbar-expand-lg nav-bg row mx-0 px-0">
 					<div class="col-6">
-						  <a href="#">
+						  <a href="index.php">
 								<div class="nav-overlay-image">
 										<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full">
 								</div>
@@ -107,10 +107,10 @@
 									         <a class="nav-link" href="#">เกี่ยวกับบริษัท</a>
 									      </li>
 									      <li class="nav-item">
-									         <a class="nav-link" href="#">เงื่อนไขการเช่า</a>
+									         <a class="nav-link" href="condition.php">เงื่อนไขการเช่า</a>
 									      </li>
 												<li class="nav-item">
-									         <a class="nav-link" href="#">ประวัติการเช่า</a>
+									         <a class="nav-link" href="brand.php">ประวัติการเช่า</a>
 									      </li>
 												<li class="nav-item dropdown">
 														<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -132,7 +132,7 @@
 													 <a class="nav-link" href="#">ฝ่ายบริการ</a>
 											  </li>
 											  <li class="nav-item">
-													 <a class="nav-link" href="#">ติดต่อเรา</a>
+													 <a class="nav-link" href="contact.php">ติดต่อเรา</a>
 											  </li>
 												<li class="nav-item">
 													<div class="btn-group nav-p-t" role="group" aria-label="">
