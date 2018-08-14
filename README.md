@@ -1,2 +1,0 @@
-# BB-Rental
-Pond / Gia

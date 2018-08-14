@@ -229,7 +229,38 @@ body {
 /*-----------------------------------
 -------------- HOME -----------------
 -------------------------------------*/
-
+.home-font{
+    font-size: 30px;
+    color: #333333;
+    font-style: italic;
+    font-weight: 500;
+}
+.home-font2{
+    font-size: 25px;
+    color: #35379d;
+    font-weight: 500;
+}
+.home-font3{
+    font-size: 25px;
+    color: #35379d;
+    font-weight: 600;
+}
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+    color: #333333;
+    border: none;
+    font-size: 60px;
+    transition: all 0.3s;
+}
+.owl-carousel .owl-nav button.owl-next:hover, .owl-carousel .owl-nav button.owl-prev:hover{
+    color: #999;
+    border: none;
+    font-size: 60px;
+    background-color: unset;
+    transition: all 0.3s;
+}
+.owl-carousel .owl-nav button.owl-next:focus, .owl-carousel .owl-nav button.owl-prev:focus{
+    outline: none;
+}
 /*-------------------------------------
 ------------- END HOME ----------------
 ---------------------------------------*/
