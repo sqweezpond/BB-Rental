@@ -8,6 +8,7 @@
 
 
 <script type="text/javascript">
+
   $('.nav-btn-lang').on('click' , function(){
 
       $(".nav-btn-lang").each(function( index ) {
@@ -16,4 +17,21 @@
 
     $(this).addClass('nav-btn-active');
   });
+
+  $('.owl-carousel').owlCarousel({
+        loop:true,
+        margin:10,
+        nav:true,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:3
+            },
+            1000:{
+                items:5
+            }
+        }
+    })
 </script>
