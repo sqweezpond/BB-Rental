@@ -5,7 +5,7 @@
 		   <div class="container">
 						<div class="row">
 								 <div class="col-xl-3 col-lg-3 col-">
-									  <a href="#">
+									  <a href="index.php">
 												<div class="nav-overlay-image">
 														<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full">
 												</div>
@@ -22,7 +22,7 @@
 													 <button type="button" class="btn nav-btn-lang">Eng</button>
 												</div>
 												<div class="mt-3">
-														<div class="nav-font3"><i class="nav-icon fa fa-volume-control-phone" aria-hidden="true"></i>ติดต่อสอบถาม</div>
+														<div class="nav-font3"><i class="nav-icon fas fa-phone-volume"></i>ติดต่อสอบถาม</div>
 														<div class="nav-font3">038-451556</div>
 												</div>
 									</div>
@@ -56,7 +56,7 @@
 			<div class="container">
 					<div class="row">
 							<div class="navbar px-0">
-								  <a href="#">หน้าหลัก</a>
+								  <a href="index.php">หน้าหลัก</a>
 								  <a href="#" class="nav-m-l">เกี่ยวกับบริษัท</a>
 									<a href="#" class="nav-m-l">เงื่อนไขการเช่า</a>
 									<a href="#" class="nav-m-l">ประวัติการเช่า</a>
@@ -83,6 +83,7 @@
 <!-- END NAVBAR 3 ---------------------------->
 
 
+<!-- Mobile + iPad ----------------------------->
 	<div class="d-block d-md-block d-lg-none">
 			<nav class="navbar navbar-expand-lg nav-bg row mx-0 px-0">
 					<div class="col-6">
@@ -100,7 +101,7 @@
 						  <div class="collapse navbar-collapse" id="navbarNavDropdown">
 								    <ul class="navbar-nav">
 									      <li class="nav-item">
-									         <a class="nav-link" href="#">หน้าหลัก</a>
+									         <a class="nav-link" href="index.php">หน้าหลัก</a>
 									      </li>
 									      <li class="nav-item">
 									         <a class="nav-link" href="#">เกี่ยวกับบริษัท</a>
