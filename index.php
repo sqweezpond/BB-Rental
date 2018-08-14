@@ -16,11 +16,7 @@
 
         <div class="container pb-5">
             <div class="row mx-0 mt-4 justify-content-center">
-<<<<<<< HEAD
               <div class="home-font">"บริการดี ตรงต่อเวลา ราคาประหยัด ซื่อสัตย์ต่อลูกค้า "</div>
-=======
-              <div class="home-font">" บริการดี ตรงต่อเวลา ราคาประหยัด ซื่อสัตย์ต่อลูกค้า "</div>
->>>>>>> 627f1f03f03aaea4da9567d569916ad430539e64
             </div>
             <div class="row mx-0 mt-5 justify-content-center">
               <span class="home-font3"> | </span>
