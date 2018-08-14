@@ -16,7 +16,11 @@
 
         <div class="container pb-5">
             <div class="row mx-0 mt-4 justify-content-center">
+<<<<<<< HEAD
               <div class="home-font">"บริการดี ตรงต่อเวลา ราคาประหยัด ซื่อสัตย์ต่อลูกค้า "</div>
+=======
+              <div class="home-font">" บริการดี ตรงต่อเวลา ราคาประหยัด ซื่อสัตย์ต่อลูกค้า "</div>
+>>>>>>> 627f1f03f03aaea4da9567d569916ad430539e64
             </div>
             <div class="row mx-0 mt-5 justify-content-center">
               <span class="home-font3"> | </span>
@@ -25,18 +29,83 @@
             </div>
             <div class="row mx-0 mt-5">
               <div class="owl-carousel owl-theme">
-                  <div class="item"><h4>1</h4></div>
-                  <div class="item"><h4>2</h4></div>
-                  <div class="item"><h4>3</h4></div>
-                  <div class="item"><h4>4</h4></div>
-                  <div class="item"><h4>5</h4></div>
-                  <div class="item"><h4>6</h4></div>
-                  <div class="item"><h4>7</h4></div>
-                  <div class="item"><h4>8</h4></div>
-                  <div class="item"><h4>9</h4></div>
-                  <div class="item"><h4>10</h4></div>
-                  <div class="item"><h4>11</h4></div>
-                  <div class="item"><h4>12</h4></div>
+                  <div class="item">
+                      <div class="home-block">
+                          <div class="home-overlay-image">
+                            <img src="assets/images/product/product-23.png" class="home-image-full image-btn">
+                          </div>
+                          <div class="middle">
+                            <div class="home-text">VIEW MORE</div>
+                          </div>
+                      </div>
+                      <div class="home-font4">ลิฟต์กระเช้าแบบเสากระโดงขึ้นตรง</div>
+                  </div>
+                  <div class="item">
+                      <div class="home-block">
+                          <div class="home-overlay-image">
+                            <img src="assets/images/product/product-27.png" class="home-image-full image-btn">
+                          </div>
+                          <div class="middle">
+                            <div class="home-text">VIEW MORE</div>
+                          </div>
+                      </div>
+                      <div class="home-font4">ลิฟต์กระเช้าส่วนบุคคล GENIE</div>
+                  </div>
+                  <div class="item">
+                      <div class="home-block">
+                          <div class="home-overlay-image">
+                            <img src="assets/images/product/product-39.png" class="home-image-full image-btn">
+                          </div>
+                          <div class="middle">
+                            <div class="home-text">VIEW MORE</div>
+                          </div>
+                      </div>
+                      <div class="home-font4">ลิฟต์กระเช้าแบบกรรไกร GENIE</div>
+                  </div>
+                  <div class="item">
+                      <div class="home-block">
+                          <div class="home-overlay-image2">
+                            <img src="assets/images/product/product-47.png" class="home-image-full image-btn">
+                          </div>
+                          <div class="middle">
+                            <div class="home-text">VIEW MORE</div>
+                          </div>
+                      </div>
+                      <div class="home-font4">ลิฟต์กระเช้าแบบกรรไกร JLG</div>
+                  </div>
+                  <div class="item">
+                      <div class="home-block">
+                          <div class="home-overlay-image">
+                            <img src="assets/images/product/product-50.png" class="home-image-full image-btn">
+                          </div>
+                          <div class="middle">
+                            <div class="home-text">VIEW MORE</div>
+                          </div>
+                      </div>
+                      <div class="home-font4">รถบูมลิพท์ GENIE</div>
+                  </div>
+                  <div class="item">
+                      <div class="home-block">
+                          <div class="home-overlay-image">
+                            <img src="assets/images/product/product-39.png" class="home-image-full image-btn">
+                          </div>
+                          <div class="middle">
+                            <div class="home-text">VIEW MORE</div>
+                          </div>
+                      </div>
+                      <div class="home-font4">ลิฟต์กระเช้าแบบกรรไกร GENIE</div>
+                  </div>
+                  <div class="item">
+                      <div class="home-block">
+                          <div class="home-overlay-image">
+                            <img src="assets/images/product/product-27.png" class="home-image-full image-btn">
+                          </div>
+                          <div class="middle">
+                            <div class="home-text">VIEW MORE</div>
+                          </div>
+                      </div>
+                      <div class="home-font4">ลิฟต์กระเช้าส่วนบุคคล GENIE</div>
+                  </div>
               </div>
             </div>
 

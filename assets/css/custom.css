@@ -236,20 +236,41 @@ body {
     font-weight: 500;
 }
 .home-font2{
-    font-size: 25px;
+    font-size: 22px;
     color: #35379d;
     font-weight: 500;
 }
 .home-font3{
-    font-size: 25px;
+    font-size: 22px;
     color: #35379d;
     font-weight: 600;
 }
-.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+.home-font4{
+    font-size: 15px;
+    color: #333333;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* courasel */
+.owl-carousel .owl-nav button.owl-next{
     color: #333333;
     border: none;
     font-size: 60px;
     transition: all 0.3s;
+    position: absolute;
+    top: 28%;
+    right: -3%;
+}
+.owl-carousel .owl-nav button.owl-prev{
+    color: #333333;
+    border: none;
+    font-size: 60px;
+    transition: all 0.3s;
+    position: absolute;
+    top: 28%;
+    left: -3%;
 }
 .owl-carousel .owl-nav button.owl-next:hover, .owl-carousel .owl-nav button.owl-prev:hover{
     color: #999;
@@ -260,6 +281,73 @@ body {
 }
 .owl-carousel .owl-nav button.owl-next:focus, .owl-carousel .owl-nav button.owl-prev:focus{
     outline: none;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: unset;
+}
+.owl-theme .owl-dots .owl-dot span {
+    background: unset;
+}
+/* end courasel */
+
+.home-overlay-image{
+    position: relative;
+    height: 29vmin;
+    width: 70%;
+    overflow: hidden;
+    margin-left: 33px;
+}
+.home-overlay-image2 {
+    position: relative;
+    height: 29vmin;
+    width: 90%;
+    overflow: hidden;
+    margin-left: 6px;
+}
+.home-image-full {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* overlay */
+.home-block {
+    position: relative;
+}
+.image-btn{
+    opacity: 1;
+    display: block;
+    transition: all 0.7s;
+    backface-visibility: hidden;
+}
+.middle {
+    transition: all 0.7s;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+.home-block:hover .image-btn {
+    transition: all 0.7s;
+    opacity: 0.3;
+}
+.home-block:hover .middle {
+    transition: all 0.7s;
+    opacity: 1;
+}
+.home-text {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    width: 150px;
+    padding: 10px;
 }
 /*-------------------------------------
 ------------- END HOME ----------------
