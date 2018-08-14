@@ -1,3 +1,7 @@
+
+
+
+/*-------brand-----------*/
 .text-head-brand{
   font-size: 28px;
   background-color: #35379d;
@@ -5,3 +9,81 @@
   font-style: italic;
   padding: 0px 30px 0px 30px;
 }
+.brand-fix-img{
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 20vmin;
+}
+.brand-img{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 100%;
+  height: 11vmin;
+}
+/*-------brand end---------*/
+
+/*--------contact----------*/
+
+.contact-fix-img{
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 70vmin;
+}
+.contact-img{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 100%;
+}
+.contact-text-map{
+  font-size: 20px;
+  color: #0062ab;
+  font-weight: 500;
+
+}
+
+/*--------contact end----------*/
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+
+}
+
+
+/*=Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+
+
+}
+
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+
+
+}
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+
+
+
+}
+
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+
+}
+
+@media (min-width: 1600px) {
