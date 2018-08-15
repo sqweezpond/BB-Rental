@@ -461,7 +461,187 @@ body {
 
 
 
+/*-------------------------------------
+------------- CONDITION ----------------
+---------------------------------------*/
+.con-font{
+    font-size: 18px;
+    font-weight: 500;
+}
+.con-font2{
+    font-size: 16px;
+    font-weight: 400;
+}
+.con-font3{
+    font-size: 15px;
+    font-weight: 300;
+    padding-top: 5px;
+}
+.con-bg {
+    padding: 10px 20px 10px 10px;
+    font-size: 20px;
+    position: relative;
+    color: #333333;
+    background: #f5e100;
+}
+.con-bg:after {
+    content: " ";
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background: #f5e100;
+    transform-origin: top left;
+    -ms-transform: skew(-30deg, 0deg);
+    -webkit-transform: skew(-30deg, 0deg);
+    transform: skew(30deg, 0deg);
+}
+.con-overlay-image {
+    position: relative;
+    height: 5vmin;
+    width: 41%;
+    overflow: hidden;
+}
+.con-image-full {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.con-block{
+    border: 2px solid #35379d;
+    padding: 20px;
+    border-radius: 0px;
+}
+/*-------------------------------------
+----------- END CONDITION ----------------
+---------------------------------------*/
 
+/*-------------------------------------
+--------------- ABOUT ----------------
+---------------------------------------*/
+.about-font{
+    font-size: 16px;
+    font-weight: 300;
+}
+.about-bg{
+    background-color: #ffd700;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.about-overlay-image {
+    position: relative;
+    height: 45vmin;
+    width: 100%;
+    overflow: hidden;
+}
+.about-overlay-image2 {
+    position: relative;
+    height: 25vmin;
+    width: 100%;
+    overflow: hidden;
+}
+.about-image-full {
+    position: absolute;
+    display: block;
+    width: auto;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.about-image-full2 {
+    position: absolute;
+    display: block;
+    width: auto;
+    height: 123%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.about-iframe{
+    width: 100%;
+    height: 620px;
+}
+/*-------------------------------------
+--------------- END ABOUT ---------------
+---------------------------------------*/
+
+/*-------------------------------------
+--------------- TRAN ----------------
+---------------------------------------*/
+.tran-font{
+    font-size: 18px;
+    font-weight: 500;
+    color: #35379d;
+}
+.tran-font2{
+    font-size: 16px;
+    font-weight: 300;
+}
+.tran-font3{
+    font-size: 16px;
+    font-weight: 300;
+    color: #35379d;
+    transition: all 0.2s;
+}
+.tran-font3:hover{
+    font-size: 17px;
+    color: black;
+    transition: all 0.2s;
+}
+.tran-bg{
+    background-color: #f5e100;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.tran-overlay-image {
+    position: relative;
+    height: 25vmin;
+    width: 100%;
+    overflow: hidden;
+}
+.tran-image-full {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.tran-p-t{
+    margin-top: 67px;
+}
+.tran-btn{
+    padding: 10px;
+    width: 159px;
+    height: 50px;
+    background-color: #35379d;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 0px;
+    text-align: center;
+    color: white;
+}
+.tran-btn:hover{
+    background-color: unset;
+    color: #35379d;
+    border: 2px solid #35379d;
+    padding-top: 7px;
+    text-decoration: none;
+}
+/*-------------------------------------
+--------------- TRAN ------------------
+---------------------------------------*/
 
 
 /*Extra small devices (portrait phones, less than 576px)*/
@@ -667,12 +847,268 @@ body {
   ---------- END HOME 575.98 ------------
   ---------------------------------------*/
 
+  /*-------------------------------------
+  ---------- CONDITION 575.98 ------------
+  ---------------------------------------*/
+  .con-font {
+      font-size: 15px;
+      font-weight: 500;
+  }
+  .con-font2 {
+      font-size: 13px;
+      font-weight: 400;
+  }
+  .con-font3 {
+      font-size: 12px;
+      font-weight: 300;
+      padding-top: 5px;
+  }
+  .con-bg {
+      padding: 10px 20px 10px 10px;
+      font-size: 20px;
+      position: relative;
+      width: 90%;
+      color: #333333;
+      background: #f5e100;
+  }
+  .con-overlay-image {
+      position: relative;
+      height: 12vmin;
+      width: 41%;
+      overflow: hidden;
+  }
+  /*-------------------------------------
+  -------- END CONDITION 575.98 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------- ABOUT 575.98 ------------
+  ---------------------------------------*/
+  .about-font {
+      font-size: 13px;
+      font-weight: 300;
+  }
+  .about-bg {
+      background-color: #ffd700;
+      padding: 10px;
+      font-size: 15px;
+      font-weight: 500;
+  }
+  .about-image-full {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-overlay-image {
+      position: relative;
+      height: 65vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-overlay-image2 {
+      position: relative;
+      height: 55vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-image-full2 {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-iframe {
+      width: 100%;
+      height: 215px;
+  }
+  /*-------------------------------------
+  ----------- END ABOUT 575.98 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ----------- TRAN 575.98 ------------
+  ---------------------------------------*/
+  .tran-font {
+      font-size: 14px;
+      font-weight: 500;
+      color: #35379d;
+      margin-top: 20px;
+  }
+  .tran-font2 {
+      font-size: 13px;
+      font-weight: 300;
+  }
+  .tran-font3 {
+      font-size: 13px;
+      font-weight: 300;
+      color: #35379d;
+      transition: all 0.2s;
+  }
+  .tran-font3:hover {
+      font-size: 14px;
+      color: black;
+      transition: all 0.2s;
+  }
+  .tran-bg {
+      background-color: #f5e100;
+      padding: 5px;
+      font-size: 14px;
+      font-weight: 500;
+  }
+  .tran-overlay-image {
+      position: relative;
+      height: 60vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .tran-p-t {
+      margin-top: 25px;
+  }
+  .tran-btn {
+      padding: 10px;
+      width: 140px;
+      height: 40px;
+      background-color: #35379d;
+      font-weight: 500;
+      font-size: 14px;
+      border-radius: 0px;
+      text-align: center;
+      color: white;
+  }
+  /*-------------------------------------
+  ----------- END TRAN 575.98 ------------
+  ---------------------------------------*/
 }
 
 
+@media (max-width: 568px) and (max-height: 320px){
+  /*-------------------------------------
+  ------- HOME iphone 5 landscape -------
+  ---------------------------------------*/
+  .home-overlay-image {
+      position: relative;
+      height: 75vmin;
+      width: 25%;
+      overflow: hidden;
+      left: 38%;
+  }
+  .owl-carousel .owl-nav button.owl-prev {
+      color: #333333;
+      border: none;
+      font-size: 60px;
+      transition: all 0.3s;
+      position: absolute;
+      top: 28%;
+      left: 10%;
+  }
+ .owl-carousel .owl-nav button.owl-next {
+      color: #333333;
+      border: none;
+      font-size: 60px;
+      transition: all 0.3s;
+      position: absolute;
+      top: 28%;
+      right: 10%;
+  }
+ .home-overlay-image3 {
+      position: relative;
+      height: 70vmin;
+      width: 40%;
+      overflow: hidden;
+      left: 28%;
+  }
+  .home-banner1 {
+      background-image: url(../../assets/images/banner/banner-1.jpg);
+      width: 100%;
+      height: 350px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(1px);
+      background-color: #3d3ea78f;
+      background-blend-mode: multiply;
+  }
+  .home-banner2 {
+      background-image: url(../../assets/images/banner/banner-2.jpg);
+      width: 100%;
+      height: 350px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(1px);
+      background-color: #3d3ea78f;
+      background-blend-mode: multiply;
+  }
+  .home-banner3 {
+      background-image: url(../../assets/images/banner/banner-3.jpg);
+      width: 100%;
+      height: 350px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(1px);
+      background-color: #3d3ea78f;
+      background-blend-mode: multiply;
+  }
+  /*-------------------------------------
+  ------ END HOME iphone 5 landscape -------
+  ---------------------------------------*/
+
+  /*----------------------------------------
+  ------ CONDITION iphone 5 landscape --------
+  ------------------------------------------*/
+  .con-overlay-image {
+      position: relative;
+      height: 24vmin;
+      width: 41%;
+      overflow: hidden;
+  }
+  /*-----------------------------------------
+  ---- END CONDITION iphone 5 landscape ------
+  ------------------------------------------*/
+
+  /*-----------------------------------------
+  -------  ABOUT iphone 5 landscape ---------
+  ------------------------------------------*/
+  .about-iframe {
+      width: 100%;
+      height: 290px;
+  }
+  .about-overlay-image {
+      position: relative;
+      height: 115vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-overlay-image2 {
+      position: relative;
+      height: 95vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  /*-----------------------------------------
+  ------ END ABOUT iphone 5 landscape --------
+  ------------------------------------------*/
+  /*-----------------------------------------
+  -------- TRAN iphone 5 landscape ----------
+  ------------------------------------------*/
+  .tran-overlay-image {
+      position: relative;
+      height: 109vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  /*-----------------------------------------
+  ------ END TRAN iphone 5 landscape --------
+  ------------------------------------------*/
+}
+
 /*=Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) {
-
   /*----------- NAVBAR 576 --------------*/
   .navbar-nav {
       padding: 20px;
@@ -753,6 +1189,230 @@ body {
       transform: skew(-50deg);
   }
   /*----------- END FOOTER 576 --------------------*/
+
+  /*-------------------------------------
+  -------------- HOME 576 ---------------
+  ---------------------------------------*/
+  .home-font {
+      font-size: 22px;
+      color: #333333;
+      font-style: italic;
+      font-weight: 500;
+  }
+  .home-font2 {
+      font-size: 16px;
+      color: #35379d;
+      font-weight: 500;
+      border-left: 7px solid #35379d;
+      border-right: 7px solid #35379d;
+  }
+  .home-font3 {
+      font-size: 15px;
+      color: #333333;
+      font-style: italic;
+      font-weight: 400;
+      border-right: 7px solid #35379d;
+      padding-left: 40px;
+      padding-right: 40px;
+  }
+  .home-font4 {
+      font-size: 9px;
+      color: #333333;
+      font-weight: 400;
+      text-align: center;
+  }
+  .home-font5 {
+      font-size: 15px;
+      color: #333333;
+      font-weight: 400;
+      font-style: italic;
+      border-left: 7px solid #35379d;
+      border-right: 7px solid #35379d;
+      padding-left: 40px;
+      padding-right: 40px;
+  }
+  .owl-carousel .owl-nav button.owl-next {
+      color: #333333;
+      border: none;
+      font-size: 40px;
+      transition: all 0.3s;
+      position: absolute;
+      top: 19%;
+      right: -5%;
+  }
+  .owl-carousel .owl-nav button.owl-prev {
+      color: #333333;
+      border: none;
+      font-size: 40px;
+      transition: all 0.3s;
+      position: absolute;
+      top: 19%;
+      left: -5%;
+  }
+  .owl-carousel .owl-nav button.owl-next:hover, .owl-carousel .owl-nav button.owl-prev:hover{
+      color: #999;
+      border: none;
+      font-size: 40px;
+      background-color: unset;
+      transition: all 0.3s;
+  }
+  .home-banner1 {
+      background-image: url(../../assets/images/banner/banner-1.jpg);
+      width: 100%;
+      height: 430px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(1px);
+      background-color: #3d3ea78f;
+      background-blend-mode: multiply;
+  }
+  .home-banner2 {
+      background-image: url(../../assets/images/banner/banner-2.jpg);
+      width: 100%;
+      height: 430px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(1px);
+      background-color: #3d3ea78f;
+      background-blend-mode: multiply;
+  }
+  .home-banner3 {
+      background-image: url(../../assets/images/banner/banner-3.jpg);
+      width: 100%;
+      height: 430px;
+      background-repeat: no-repeat;
+      background-size: cover;
+      filter: blur(1px);
+      background-color: #3d3ea78f;
+      background-blend-mode: multiply;
+  }
+  .home-overlay-image {
+      position: relative;
+      height: 35vmin;
+      width: 55%;
+      overflow: hidden;
+      left: 22%;
+  }
+  .home-overlay-image3 {
+      position: relative;
+      height: 34vmin;
+      width: 85%;
+      overflow: hidden;
+      left: 13px;
+  }
+  /*-------------------------------------
+  ----------- END HOME 576 ---------------
+  ---------------------------------------*/
+
+
+  /*-------------------------------------
+  -------- CONDITION 576 ------------
+  ---------------------------------------*/
+  .con-overlay-image {
+      position: relative;
+      height: 23vmin;
+      width: 41%;
+      overflow: hidden;
+  }
+  /*-------------------------------------
+  -------- END CONDITION 576 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  -------------- ABOUT 576 ----------------
+  ---------------------------------------*/
+  .about-font {
+      font-size: 14px;
+      font-weight: 300;
+  }
+  .about-bg {
+      background-color: #ffd700;
+      padding: 10px;
+      font-size: 15px;
+      font-weight: 500;
+  }
+  .about-iframe {
+      width: 100%;
+      height: 286px;
+  }
+  .about-overlay-image {
+      position: relative;
+      height: 96vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-image-full2 {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-overlay-image2 {
+      position: relative;
+      height: 70vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  /*-------------------------------------
+  ---------- END ABOUT 576 --------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ TRAN 576 --------------
+  ---------------------------------------*/
+  .tran-font {
+      font-size: 15px;
+      font-weight: 500;
+      color: #35379d;
+      margin-top: 20px;
+  }
+  .tran-font2 {
+      font-size: 14px;
+      font-weight: 300;
+  }
+  .tran-font3 {
+      font-size: 14px;
+      font-weight: 300;
+      color: #35379d;
+      transition: all 0.2s;
+  }
+  .tran-font3:hover {
+      font-size: 15px;
+      color: black;
+      transition: all 0.2s;
+  }
+  .tran-overlay-image {
+      position: relative;
+      height: 80vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .tran-bg {
+      background-color: #f5e100;
+      padding: 5px;
+      font-size: 15px;
+      font-weight: 500;
+  }
+  .tran-p-t {
+      margin-top: 10px;
+  }
+  .tran-btn {
+      padding: 10px;
+      width: 140px;
+      height: 45px;
+      background-color: #35379d;
+      font-weight: 500;
+      font-size: 16px;
+      border-radius: 0px;
+      text-align: center;
+      color: white;
+  }
+  /*-------------------------------------
+  ---------- END TRAN 576 --------------
+  ---------------------------------------*/
 }
 
 
@@ -959,6 +1619,131 @@ body {
   /*-------------------------------------
   ----------- END HOME 768 --------------
   ---------------------------------------*/
+
+  /*-------------------------------------
+  ----------- CONDITION 768 --------------
+  ---------------------------------------*/
+  .con-overlay-image {
+      position: relative;
+      height: 6vmin;
+      width: 41%;
+      overflow: hidden;
+  }
+  /*-------------------------------------
+  --------- END CONDITION 768 -----------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ ABOUT 768 ------------s---
+  ---------------------------------------*/
+  .about-overlay-image {
+      position: relative;
+      height: 60vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-image-full {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-image-full2 {
+      position: absolute;
+      display: block;
+      width: auto;
+      height: 127%;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-overlay-image2 {
+      position: relative;
+      height: 19vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-iframe {
+      width: 100%;
+      height: 385px;
+  }
+  /*-------------------------------------
+  ------------ END ABOUT 768 -----------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  --------------- TRAN 768 --------------
+  ---------------------------------------*/
+  .tran-font {
+      font-size: 16px;
+      font-weight: 500;
+      color: #35379d;
+      margin-top: 0px;
+  }
+  .tran-font2 {
+      font-size: 14px;
+      font-weight: 300;
+  }
+  .tran-bg {
+      background-color: #f5e100;
+      padding: 5px;
+      font-size: 16px;
+      font-weight: 500;
+  }
+  .tran-font3 {
+      font-size: 14px;
+      font-weight: 300;
+      color: #35379d;
+      transition: all 0.2s;
+  }
+  .tran-font3:hover {
+      font-size: 15px;
+      color: black;
+      transition: all 0.2s;
+  }
+  .tran-p-t {
+      margin-top: 10px;
+  }
+  .tran-overlay-image {
+      position: relative;
+      height: 20vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .tran-image-full {
+      position: absolute;
+      display: block;
+      width: auto;
+      height: 100%;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .tran-btn {
+      padding: 10px;
+      width: 145px;
+      height: 45px;
+      background-color: #35379d;
+      font-weight: 500;
+      font-size: 15px;
+      border-radius: 0px;
+      text-align: center;
+      color: white;
+      padding-top: 12px;
+  }
+  .tran-btn:hover {
+      background-color: unset;
+      color: #35379d;
+      border: 2px solid #35379d;
+      padding-top: 10px;
+      text-decoration: none;
+  }
+  /*-------------------------------------
+  ------------ END TRAN 768 -------------
+  ---------------------------------------*/
 }
 
 
@@ -1136,8 +1921,141 @@ body {
       left: 27px;
   }
   /*-----------------------------------
-  -------------- END HOME 992 -------------
+  ------------ END HOME 992 -----------
   -------------------------------------*/
+
+  /*-----------------------------------
+  ------------ CONDITION 992 -----------
+  -------------------------------------*/
+  .con-overlay-image {
+      position: relative;
+      height: 4vmin;
+      width: 41%;
+      overflow: hidden;
+  }
+  /*-----------------------------------
+  ---------- END CONDITION 992 -----------
+  -------------------------------------*/
+
+  /*-------------------------------------
+  ------------ ABOUT 992 ----------------
+  ---------------------------------------*/
+  .about-font{
+      font-size: 15px;
+      font-weight: 300;
+  }
+  .about-bg{
+      background-color: #ffd700;
+      padding: 10px;
+      font-size: 18px;
+      font-weight: 500;
+  }
+  .about-overlay-image {
+      position: relative;
+      height: 48vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-overlay-image2 {
+      position: relative;
+      height: 19vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-image-full {
+      position: absolute;
+      display: block;
+      width: auto;
+      height: 100%;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-image-full2 {
+      position: absolute;
+      display: block;
+      width: auto;
+      height: 123%;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-iframe {
+      width: 100%;
+      height: 520px;
+  }
+  /*-------------------------------------
+  ------------ END ABOUT 992 ---------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ TRAN 992 ---------------
+  ---------------------------------------*/
+  .tran-overlay-image {
+      position: relative;
+      height: 20vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .tran-p-t {
+      margin-top: 7px;
+  }
+  .tran-font{
+      font-size: 18px;
+      font-weight: 500;
+      color: #35379d;
+  }
+  .tran-font2{
+      font-size: 16px;
+      font-weight: 300;
+  }
+  .tran-font3{
+      font-size: 16px;
+      font-weight: 300;
+      color: #35379d;
+      transition: all 0.2s;
+  }
+  .tran-font3:hover{
+      font-size: 17px;
+      color: black;
+      transition: all 0.2s;
+  }
+  .tran-bg{
+      background-color: #f5e100;
+      padding: 5px;
+      font-size: 18px;
+      font-weight: 500;
+  }
+  .tran-image-full {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .tran-btn{
+      padding: 10px;
+      width: 159px;
+      height: 50px;
+      background-color: #35379d;
+      font-weight: 500;
+      font-size: 18px;
+      border-radius: 0px;
+      text-align: center;
+      color: white;
+  }
+  .tran-btn:hover{
+      background-color: unset;
+      color: #35379d;
+      border: 2px solid #35379d;
+      padding-top: 7px;
+      text-decoration: none;
+  }
+  /*-------------------------------------
+  ------------ END TRAN 992 ---------------
+  ---------------------------------------*/
 }
 
 
@@ -1158,7 +2076,23 @@ body {
   /*----------- END NAVBAR 1200 --------------*/
 
   /*----------- FOOTER 1200 --------------------*/
+  .footer-bg2{
+      background-color: #f8e800;
+      padding: 10px;
+      -ms-transform: skewY(50deg); /* IE 9 */
+      -webkit-transform: skewY(20deg); /* Safari 3-8 */
+      transform: skew(50deg);
+  }
+  .footer-font{
+      font-size: 13px;
+      color: #333333;
+      font-weight: 300;
+      -ms-transform: skewY(-50deg); /* IE 9 */
+      -webkit-transform: skewY(-50deg); /* Safari 3-8 */
+      transform: skew(-50deg);
+  }
   /*----------- END FOOTER 1200 -----------------*/
+
 
   /*-----------------------------------
   -------------- HOME 1200 -------------
@@ -1387,7 +2321,116 @@ body {
   }
   /* end overlay2 */
   /*-------------------------------------
-  ------------- END HOME 1200 ----------------
+  ----------- END HOME 1200 -------------
+  ---------------------------------------*/
+
+  /*-----------------------------------
+  ------------ CONDITION 1200 -----------
+  -------------------------------------*/
+  .con-overlay-image {
+      position: relative;
+      height: 5vmin;
+      width: 41%;
+      overflow: hidden;
+  }
+  /*-----------------------------------
+  ---------- END CONDITION 1200 -----------
+  -------------------------------------*/
+
+  /*-----------------------------------
+  ------------ ABOUT 1200 -------------
+  -------------------------------------*/
+  .about-font {
+      font-size: 16px;
+      font-weight: 300;
+  }
+  .about-overlay-image {
+      position: relative;
+      height: 46vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-overlay-image2 {
+      position: relative;
+      height: 25vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-iframe {
+      width: 100%;
+      height: 620px;
+  }
+  /*-----------------------------------
+  ------------ END ABOUT 1200 -----------
+  -------------------------------------*/
+
+  /*-------------------------------------
+  --------------- TRAN 1200 ----------------
+  ---------------------------------------*/
+  .tran-font{
+      font-size: 18px;
+      font-weight: 500;
+      color: #35379d;
+  }
+  .tran-font2{
+      font-size: 16px;
+      font-weight: 300;
+  }
+  .tran-font3{
+      font-size: 16px;
+      font-weight: 300;
+      color: #35379d;
+      transition: all 0.2s;
+  }
+  .tran-font3:hover{
+      font-size: 17px;
+      color: black;
+      transition: all 0.2s;
+  }
+  .tran-bg{
+      background-color: #f5e100;
+      padding: 5px;
+      font-size: 18px;
+      font-weight: 500;
+  }
+  .tran-overlay-image {
+      position: relative;
+      height: 25vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .tran-image-full {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .tran-p-t{
+      margin-top: 67px;
+  }
+  .tran-btn{
+      padding: 10px;
+      width: 159px;
+      height: 50px;
+      background-color: #35379d;
+      font-weight: 500;
+      font-size: 18px;
+      border-radius: 0px;
+      text-align: center;
+      color: white;
+  }
+  .tran-btn:hover{
+      background-color: unset;
+      color: #35379d;
+      border: 2px solid #35379d;
+      padding-top: 7px;
+      text-decoration: none;
+  }
+  /*-------------------------------------
+  --------------- TRAN 1200 ------------------
   ---------------------------------------*/
 }
 
