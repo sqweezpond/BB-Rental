@@ -31,18 +31,43 @@
                             <div class="col-lg-6 tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
                               <div class="card">
                                 <div class="row">
-                                  <div class="col-lg-6 ">
-                                    <img class=" card-img-top" src="assets/images/product/product-25.png" alt="Card image cap">
+                                  <div class="col-lg-5 ">
+                                    <div class="pro-fix-img">
+                                      <img class="pro-img" src="assets/images/product/product-25.png" alt="Card image cap"/>
+                                    </div>
                                   </div>
-                                  <div class="col-lg-6 card-body ">
-                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <div class="col-lg-7 ">
+                                    <p class="pro_text my-3">GS-1532</p>
+                                    <div class="pro-bg-1">
+                                      <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                    </div>
+                                    <div class="pro-bg-0">
+                                      <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                    </div>
+                                    <div class="pro-bg-1">
+                                      <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                    </div>
+                                    <div class="pro-bg-0">
+                                      <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                    </div>
+                                    <div class="pro-bg-1">
+                                      <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                    </div>
                                   </div>
                                 </div>
                               </div>
-
                             </div>
+                          </div>
 
 
+
+
+                            <div class="col-lg-6">
+                              <button type="button" class="btn btn-primary"><i class="far fa-arrow-alt-circle-down"></i>Download Spec Sheep</button>
+                            </div>
+                            <div class="col-lg-6">
+                              <button type="button" class="btn btn-primary">Primary</button>
+                            </div>
 
 
 
