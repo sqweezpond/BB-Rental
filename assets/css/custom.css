@@ -6,7 +6,6 @@
     font-weight: normal;
     font-style: normal;
 }
-
 @font-face {
     font-family: 'kanitlight';
     src: url('../fonts/kanit/kanit-light-webfont.woff2') format('woff2'),
@@ -14,7 +13,6 @@
     font-weight: normal;
     font-style: normal;
 }
-
 @font-face {
     font-family: 'kanitmedium';
     src: url('../fonts/kanit/kanit-medium-webfont.woff2') format('woff2'),
@@ -22,7 +20,6 @@
     font-weight: normal;
     font-style: normal;
 }
-
 @font-face {
     font-family: 'kanitregular';
     src: url('../fonts/kanit/kanit-regular-webfont.woff2') format('woff2'),
@@ -39,7 +36,6 @@ body {
 .wrapper {
     min-height: calc(100vh - 320px);
 }
-
 
 /*----------- NAVBAR 1 ------------------*/
 .nav-font{
@@ -198,8 +194,6 @@ body {
     box-shadow: none;
 }
 /*----------- END NAVBAR 1 --------------*/
-
-
 
 
 /*----------- FOOTER ----------------*/
@@ -574,6 +568,7 @@ body {
 --------------- END ABOUT ---------------
 ---------------------------------------*/
 
+
 /*-------------------------------------
 --------------- TRAN ----------------
 ---------------------------------------*/
@@ -727,6 +722,7 @@ body {
       text-align: center;
   }
   /*----------- END FOOTER 575.98 -----------------*/
+
 
   /*-------------------------------------
   ------------- HOME 575.98 ----------------
@@ -931,7 +927,7 @@ body {
   ---------------------------------------*/
 
   /*-------------------------------------
-  ----------- TRAN 575.98 ------------
+  ------------- TRAN 575.98 -------------
   ---------------------------------------*/
   .tran-font {
       font-size: 14px;
@@ -981,9 +977,10 @@ body {
 }
 
 
+/* iphone SE landscape */
 @media (max-width: 568px) and (max-height: 320px){
   /*-------------------------------------
-  ------- HOME iphone 5 landscape -------
+  ------- HOME (iphone SE) landscape -------
   ---------------------------------------*/
   .home-overlay-image {
       position: relative;
@@ -1048,11 +1045,11 @@ body {
       background-blend-mode: multiply;
   }
   /*-------------------------------------
-  ------ END HOME iphone 5 landscape -------
+  ------ END HOME (iphone SE) landscape -------
   ---------------------------------------*/
 
   /*----------------------------------------
-  ------ CONDITION iphone 5 landscape --------
+  ------ CONDITION (iphone SE) landscape --------
   ------------------------------------------*/
   .con-overlay-image {
       position: relative;
@@ -1061,11 +1058,11 @@ body {
       overflow: hidden;
   }
   /*-----------------------------------------
-  ---- END CONDITION iphone 5 landscape ------
+  ---- END CONDITION (iphone SE) landscape ------
   ------------------------------------------*/
 
   /*-----------------------------------------
-  -------  ABOUT iphone 5 landscape ---------
+  -------  ABOUT (iphone SE) landscape ---------
   ------------------------------------------*/
   .about-iframe {
       width: 100%;
@@ -1084,10 +1081,10 @@ body {
       overflow: hidden;
   }
   /*-----------------------------------------
-  ------ END ABOUT iphone 5 landscape --------
+  ------ END ABOUT (iphone SE) landscape --------
   ------------------------------------------*/
   /*-----------------------------------------
-  -------- TRAN iphone 5 landscape ----------
+  -------- TRAN (iphone SE) landscape ----------
   ------------------------------------------*/
   .tran-overlay-image {
       position: relative;
@@ -1096,7 +1093,7 @@ body {
       overflow: hidden;
   }
   /*-----------------------------------------
-  ------ END TRAN iphone 5 landscape --------
+  ------ END TRAN (iphone SE) landscape --------
   ------------------------------------------*/
 }
 
@@ -1299,7 +1296,7 @@ body {
 
 
   /*-------------------------------------
-  -------- CONDITION 576 ------------
+  ------------ CONDITION 576 ------------
   ---------------------------------------*/
   .con-overlay-image {
       position: relative;
@@ -1354,7 +1351,7 @@ body {
   ---------------------------------------*/
 
   /*-------------------------------------
-  ------------ TRAN 576 --------------
+  --------------- TRAN 576 --------------
   ---------------------------------------*/
   .tran-font {
       font-size: 15px;
@@ -1968,7 +1965,7 @@ body {
       height: 520px;
   }
   /*-------------------------------------
-  ------------ END ABOUT 992 ---------------
+  ------------ END ABOUT 992 -------------
   ---------------------------------------*/
 
   /*-------------------------------------
@@ -2039,7 +2036,6 @@ body {
 
 /*Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {
-
   /*----------- NAVBAR 1200 -----------------*/
   .nav-m-l {
       margin-left: 48px;
@@ -2407,8 +2403,9 @@ body {
   ---------------------------------------*/
 }
 
-@media (min-width: 1600px) {
 
+
+@media (min-width: 1600px) {
   /*----------- NAVBAR 1600 -----------------*/
   /*----------- END NAVBAR 1600 --------------*/
 
