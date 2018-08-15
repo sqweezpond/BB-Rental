@@ -664,7 +664,7 @@ body {
   }
   .navbar a {
       float: left;
-      text-align: center;
+      text-align: left;
       font-size: 15px;
       color: #333333;
       padding: 14px 16px;
@@ -1121,7 +1121,7 @@ body {
   }
   .navbar a {
       float: left;
-      text-align: center;
+      text-align: left;
       font-size: 15px;
       color: #333333;
       padding: 14px 16px;
@@ -1427,7 +1427,7 @@ body {
   }
   .navbar a {
       float: left;
-      text-align: center;
+      text-align: left;
       font-size: 15px;
       color: #333333;
       padding: 14px 16px;
@@ -1770,8 +1770,8 @@ body {
   }
   .nav-search-form {
       border-radius: 0px;
-      background: #fff url(../../assets/images/logo/search.png) no-repeat right 15px center;
-      background-size: 20px;
+      background: #fff url(../../assets/images/logo/search.png) no-repeat right 7px center;
+      background-size: 23px;
       -webkit-appearance: none!important;
       padding: 5px 12px!important;
       width: 100%;
