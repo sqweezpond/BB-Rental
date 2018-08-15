@@ -210,7 +210,9 @@
                          <div class="home-block2">
                              <div class="home-banner3 image-btn2"></div>
                              <div class="middle2">
-                               <div class="home-text2">อบรม</div>
+                               <a href="traning.php">
+                                 <div class="home-text2">อบรม</div>
+                               </a>
                              </div>
                          </div>
                      </div>
@@ -228,17 +230,17 @@
 
           <div class="row mx-0 mt-5 justify-content-center">
               <span class="">
-                <a href="" class="home-font5">
+                <a href="#" class="home-font5">
                   ร่วมงานกับเรา
                 </a>
               </span>
               <span class="">
-                <a href="" class="home-font3">
+                <a href="#" class="home-font3">
                   ช่วยเหลือสังคม
                 </a>
               </span>
               <span class="">
-                <a href="" class="home-font3">
+                <a href="#" class="home-font3">
                   โปรโมชั่น
                 </a>
               </span>

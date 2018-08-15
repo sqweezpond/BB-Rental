@@ -574,6 +574,75 @@ body {
 --------------- END ABOUT ---------------
 ---------------------------------------*/
 
+/*-------------------------------------
+--------------- TRAN ----------------
+---------------------------------------*/
+.tran-font{
+    font-size: 18px;
+    font-weight: 500;
+    color: #35379d;
+}
+.tran-font2{
+    font-size: 16px;
+    font-weight: 300;
+}
+.tran-font3{
+    font-size: 16px;
+    font-weight: 300;
+    color: #35379d;
+    transition: all 0.2s;
+}
+.tran-font3:hover{
+    font-size: 17px;
+    color: black;
+    transition: all 0.2s;
+}
+.tran-bg{
+    background-color: #f5e100;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.tran-overlay-image {
+    position: relative;
+    height: 25vmin;
+    width: 100%;
+    overflow: hidden;
+}
+.tran-image-full {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.tran-p-t{
+    margin-top: 67px;
+}
+.tran-btn{
+    padding: 10px;
+    width: 159px;
+    height: 50px;
+    background-color: #35379d;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 0px;
+    text-align: center;
+    color: white;
+}
+.tran-btn:hover{
+    background-color: unset;
+    color: #35379d;
+    border: 2px solid #35379d;
+    padding-top: 7px;
+    text-decoration: none;
+}
+/*-------------------------------------
+--------------- TRAN ------------------
+---------------------------------------*/
+
 
 /*Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
@@ -862,6 +931,60 @@ body {
   /*-------------------------------------
   ----------- END ABOUT 575.98 ------------
   ---------------------------------------*/
+
+  /*-------------------------------------
+  ----------- TRAN 575.98 ------------
+  ---------------------------------------*/
+  .tran-font {
+      font-size: 14px;
+      font-weight: 500;
+      color: #35379d;
+      margin-top: 20px;
+  }
+  .tran-font2 {
+      font-size: 13px;
+      font-weight: 300;
+  }
+  .tran-font3 {
+      font-size: 13px;
+      font-weight: 300;
+      color: #35379d;
+      transition: all 0.2s;
+  }
+  .tran-font3:hover {
+      font-size: 14px;
+      color: black;
+      transition: all 0.2s;
+  }
+  .tran-bg {
+      background-color: #f5e100;
+      padding: 5px;
+      font-size: 14px;
+      font-weight: 500;
+  }
+  .tran-overlay-image {
+      position: relative;
+      height: 60vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .tran-p-t {
+      margin-top: 25px;
+  }
+  .tran-btn {
+      padding: 10px;
+      width: 140px;
+      height: 40px;
+      background-color: #35379d;
+      font-weight: 500;
+      font-size: 14px;
+      border-radius: 0px;
+      text-align: center;
+      color: white;
+  }
+  /*-------------------------------------
+  ----------- END TRAN 575.98 ------------
+  ---------------------------------------*/
 }
 
 
@@ -970,11 +1093,22 @@ body {
   /*-----------------------------------------
   ------ END ABOUT iphone 5 landscape --------
   ------------------------------------------*/
+  /*-----------------------------------------
+  -------- TRAN iphone 5 landscape ----------
+  ------------------------------------------*/
+  .tran-overlay-image {
+      position: relative;
+      height: 109vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  /*-----------------------------------------
+  ------ END TRAN iphone 5 landscape --------
+  ------------------------------------------*/
 }
 
 /*=Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) {
-
   /*----------- NAVBAR 576 --------------*/
   .navbar-nav {
       padding: 20px;
@@ -1224,6 +1358,60 @@ body {
   }
   /*-------------------------------------
   ---------- END ABOUT 576 --------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ TRAN 576 --------------
+  ---------------------------------------*/
+  .tran-font {
+      font-size: 15px;
+      font-weight: 500;
+      color: #35379d;
+      margin-top: 20px;
+  }
+  .tran-font2 {
+      font-size: 14px;
+      font-weight: 300;
+  }
+  .tran-font3 {
+      font-size: 14px;
+      font-weight: 300;
+      color: #35379d;
+      transition: all 0.2s;
+  }
+  .tran-font3:hover {
+      font-size: 15px;
+      color: black;
+      transition: all 0.2s;
+  }
+  .tran-overlay-image {
+      position: relative;
+      height: 80vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .tran-bg {
+      background-color: #f5e100;
+      padding: 5px;
+      font-size: 15px;
+      font-weight: 500;
+  }
+  .tran-p-t {
+      margin-top: 10px;
+  }
+  .tran-btn {
+      padding: 10px;
+      width: 140px;
+      height: 45px;
+      background-color: #35379d;
+      font-weight: 500;
+      font-size: 16px;
+      border-radius: 0px;
+      text-align: center;
+      color: white;
+  }
+  /*-------------------------------------
+  ---------- END TRAN 576 --------------
   ---------------------------------------*/
 }
 
@@ -1485,6 +1673,77 @@ body {
   /*-------------------------------------
   ------------ END ABOUT 768 -----------
   ---------------------------------------*/
+
+  /*-------------------------------------
+  --------------- TRAN 768 --------------
+  ---------------------------------------*/
+  .tran-font {
+      font-size: 16px;
+      font-weight: 500;
+      color: #35379d;
+      margin-top: 0px;
+  }
+  .tran-font2 {
+      font-size: 14px;
+      font-weight: 300;
+  }
+  .tran-bg {
+      background-color: #f5e100;
+      padding: 5px;
+      font-size: 16px;
+      font-weight: 500;
+  }
+  .tran-font3 {
+      font-size: 14px;
+      font-weight: 300;
+      color: #35379d;
+      transition: all 0.2s;
+  }
+  .tran-font3:hover {
+      font-size: 15px;
+      color: black;
+      transition: all 0.2s;
+  }
+  .tran-p-t {
+      margin-top: 10px;
+  }
+  .tran-overlay-image {
+      position: relative;
+      height: 20vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .tran-image-full {
+      position: absolute;
+      display: block;
+      width: auto;
+      height: 100%;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .tran-btn {
+      padding: 10px;
+      width: 145px;
+      height: 45px;
+      background-color: #35379d;
+      font-weight: 500;
+      font-size: 15px;
+      border-radius: 0px;
+      text-align: center;
+      color: white;
+      padding-top: 12px;
+  }
+  .tran-btn:hover {
+      background-color: unset;
+      color: #35379d;
+      border: 2px solid #35379d;
+      padding-top: 10px;
+      text-decoration: none;
+  }
+  /*-------------------------------------
+  ------------ END TRAN 768 -------------
+  ---------------------------------------*/
 }
 
 
@@ -1728,6 +1987,75 @@ body {
   /*-------------------------------------
   ------------ END ABOUT 992 ---------------
   ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ TRAN 992 ---------------
+  ---------------------------------------*/
+  .tran-overlay-image {
+      position: relative;
+      height: 20vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .tran-p-t {
+      margin-top: 7px;
+  }
+  .tran-font{
+      font-size: 18px;
+      font-weight: 500;
+      color: #35379d;
+  }
+  .tran-font2{
+      font-size: 16px;
+      font-weight: 300;
+  }
+  .tran-font3{
+      font-size: 16px;
+      font-weight: 300;
+      color: #35379d;
+      transition: all 0.2s;
+  }
+  .tran-font3:hover{
+      font-size: 17px;
+      color: black;
+      transition: all 0.2s;
+  }
+  .tran-bg{
+      background-color: #f5e100;
+      padding: 5px;
+      font-size: 18px;
+      font-weight: 500;
+  }
+  .tran-image-full {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .tran-btn{
+      padding: 10px;
+      width: 159px;
+      height: 50px;
+      background-color: #35379d;
+      font-weight: 500;
+      font-size: 18px;
+      border-radius: 0px;
+      text-align: center;
+      color: white;
+  }
+  .tran-btn:hover{
+      background-color: unset;
+      color: #35379d;
+      border: 2px solid #35379d;
+      padding-top: 7px;
+      text-decoration: none;
+  }
+  /*-------------------------------------
+  ------------ END TRAN 992 ---------------
+  ---------------------------------------*/
 }
 
 
@@ -1764,6 +2092,7 @@ body {
       transform: skew(-50deg);
   }
   /*----------- END FOOTER 1200 -----------------*/
+
 
   /*-----------------------------------
   -------------- HOME 1200 -------------
@@ -2034,6 +2363,75 @@ body {
   /*-----------------------------------
   ------------ END ABOUT 1200 -----------
   -------------------------------------*/
+
+  /*-------------------------------------
+  --------------- TRAN 1200 ----------------
+  ---------------------------------------*/
+  .tran-font{
+      font-size: 18px;
+      font-weight: 500;
+      color: #35379d;
+  }
+  .tran-font2{
+      font-size: 16px;
+      font-weight: 300;
+  }
+  .tran-font3{
+      font-size: 16px;
+      font-weight: 300;
+      color: #35379d;
+      transition: all 0.2s;
+  }
+  .tran-font3:hover{
+      font-size: 17px;
+      color: black;
+      transition: all 0.2s;
+  }
+  .tran-bg{
+      background-color: #f5e100;
+      padding: 5px;
+      font-size: 18px;
+      font-weight: 500;
+  }
+  .tran-overlay-image {
+      position: relative;
+      height: 25vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .tran-image-full {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .tran-p-t{
+      margin-top: 67px;
+  }
+  .tran-btn{
+      padding: 10px;
+      width: 159px;
+      height: 50px;
+      background-color: #35379d;
+      font-weight: 500;
+      font-size: 18px;
+      border-radius: 0px;
+      text-align: center;
+      color: white;
+  }
+  .tran-btn:hover{
+      background-color: unset;
+      color: #35379d;
+      border: 2px solid #35379d;
+      padding-top: 7px;
+      text-decoration: none;
+  }
+  /*-------------------------------------
+  --------------- TRAN 1200 ------------------
+  ---------------------------------------*/
 }
 
 @media (min-width: 1600px) {
