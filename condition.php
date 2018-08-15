@@ -62,7 +62,7 @@
               <div class="col-xl-4 col-lg-4 col-md-6 mt-4">
                   <div class="card con-block">
                       <div class="con-overlay-image">
-                        <img src="assets/images/pay/scb.png" class="con-image-full">
+                        <img src="assets/images/pay/scb.png" class="con-image-full" alt="BB-Rental"s/>
                       </div>
                       <div class="con-font3 mt-2">ชื่อบัญชี บริษัท บี.บี.เร้นทัล จำกัด</div>
                       <div class="con-font3">ธนาคารไทยพาณิชย์ สาขา พานทอง</div>
@@ -73,7 +73,7 @@
               <div class="col-xl-4 col-lg-4 col-md-6 mt-4">
                   <div class="card con-block">
                       <div class="con-overlay-image">
-                        <img src="assets/images/pay/kbank.jpg" class="con-image-full">
+                        <img src="assets/images/pay/kbank.jpg" class="con-image-full" alt="BB-Rental"/>
                       </div>
                       <div class="con-font3 mt-2">ชื่อบัญชี บริษัท บี.บี.เร้นทัล จำกัด</div>
                       <div class="con-font3">ธนาคารกสิกรไทย สาขา บางปอ บัญชีกระแสรายวัน</div>

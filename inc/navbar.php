@@ -7,13 +7,13 @@
 								 <div class="col-xl-3 col-lg-3 col-">
 									  <a href="index.php">
 												<div class="nav-overlay-image">
-														<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full"/>
+														<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full" alt="BB-Rental"/>
 												</div>
 										</a>
 									</div>
 									<div class="col-xl-6 col-lg-6 text-center">
 											<div class="nav-overlay-image2">
-													<img src="assets/images/logo/FONT-BB.png" class="nav-image-full">
+													<img src="assets/images/logo/FONT-BB.png" class="nav-image-full" alt="BB-Rental"/>
 											</div>
 									</div>
 									<div class="col-xl-3 col-lg-3 text-right">
@@ -63,15 +63,15 @@
 								  <div class="dropdown nav-m-l">
 									    <button class="dropbtn">เครื่องจักรสำหรับเช่า</button>
 									    <div class="dropdown-content">
-									      <a href="#">รถกระเช้าแบบบูมพับ</a>
-									      <a href="#">รถกระเช้าแบบบูมตรง</a>
-									      <a href="#">รถกระเช้าแบบกรรไกร</a>
-												<a href="#">รถขุด / รถแบ็คโฮ</a>
-												<a href="#">รถบด</a>
-												<a href="#">รถเกรด</a>
-												<a href="#">รถบรรทุกติดตั้งเครน</a>
-												<a href="#">รถขนส่ง</a>
-												<a href="#">รถกระเช้า</a>
+									      <a href="product.php">รถกระเช้าแบบบูมพับ</a>
+									      <a href="product.php">รถกระเช้าแบบบูมตรง</a>
+									      <a href="product.php">รถกระเช้าแบบกรรไกร</a>
+												<a href="product.php">รถขุด / รถแบ็คโฮ</a>
+												<a href="product.php">รถบด</a>
+												<a href="product.php">รถเกรด</a>
+												<a href="product.php">รถบรรทุกติดตั้งเครน</a>
+												<a href="product.php">รถขนส่ง</a>
+												<a href="product.php">รถกระเช้า</a>
 									    </div>
 								  </div>
 									<a href="#" class="nav-m-l">ฝ่ายบริการ</a>
@@ -89,7 +89,7 @@
 					<div class="col-6">
 						  <a href="index.php">
 								<div class="nav-overlay-image">
-										<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full"/>
+										<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full" alt="BB-Rental"/>
 								</div>
 							</a>
 					</div>
@@ -117,15 +117,15 @@
 															เครื่องจักรสำหรับเช่า
 														</a>
 														<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-																 <a class="dropdown-item" href="#">รถกระเช้าแบบบูมพับ</a>
-																 <a class="dropdown-item" href="#">รถกระเช้าแบบบูมตรง</a>
-																 <a class="dropdown-item" href="#">รถกระเช้าแบบกรรไกร</a>
-																 <a class="dropdown-item" href="#">รถขุด / รถแบ็คโฮ</a>
-																 <a class="dropdown-item" href="#">รถบด</a>
-																 <a class="dropdown-item" href="#">รถเกรด</a>
-																 <a class="dropdown-item" href="#">รถบรรทุกติดตั้งเครน</a>
-																 <a class="dropdown-item" href="#">รถขนส่ง</a>
-																 <a class="dropdown-item" href="#">รถกระเช้า</a>
+																 <a class="dropdown-item" href="product.php">- รถกระเช้าแบบบูมพับ</a>
+																 <a class="dropdown-item" href="product.php">- รถกระเช้าแบบบูมตรง</a>
+																 <a class="dropdown-item" href="product.php">- รถกระเช้าแบบกรรไกร</a>
+																 <a class="dropdown-item" href="product.php">- รถขุด / รถแบ็คโฮ</a>
+																 <a class="dropdown-item" href="product.php">- รถบด</a>
+																 <a class="dropdown-item" href="product.php">- รถเกรด</a>
+																 <a class="dropdown-item" href="product.php">- รถบรรทุกติดตั้งเครน</a>
+																 <a class="dropdown-item" href="product.php">- รถขนส่ง</a>
+																 <a class="dropdown-item" href="product.php">- รถกระเช้า</a>
 														</div>
 												</li>
 												<li class="nav-item">
@@ -140,7 +140,7 @@
 														 <button type="button" class="btn nav-btn-lang">Eng</button>
 													</div>
 													<div class="mt-3">
-															<span class="nav-font3"><i class="nav-icon fa fa-volume-control-phone" aria-hidden="true"></i>ติดต่อสอบถาม :</span>
+															<span class="nav-font3"><i class="nav-icon fas fa-phone-volume"></i>ติดต่อสอบถาม :</span>
 															<span class="nav-font3">038-451556</span>
 													</div>
 									      </li>

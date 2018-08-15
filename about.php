@@ -49,24 +49,24 @@
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="about-overlay-image">
-                      <img src="assets/images/banner/banner-4.png" class="about-image-full"/>
+                      <img src="assets/images/banner/banner-4.png" class="about-image-full" alt="BB-Rental"/>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-12 mt-4">
                   <div class="about-overlay-image2">
-                    <img src="assets/images/banner/banner-5.jpg" class="about-image-full2"/>
+                    <img src="assets/images/banner/banner-5.jpg" class="about-image-full2" alt="BB-Rental"/>
                   </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-12 mt-4">
                   <div class="about-overlay-image2">
-                    <img src="assets/images/banner/banner-6.jpg" class="about-image-full2"/>
+                    <img src="assets/images/banner/banner-6.jpg" class="about-image-full2" alt="BB-Rental"/>
                   </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-12 mt-4">
                   <div class="about-overlay-image2">
-                    <img src="assets/images/banner/banner-7.jpg" class="about-image-full2"/>
+                    <img src="assets/images/banner/banner-7.jpg" class="about-image-full2" alt="BB-Rental"/>
                   </div>
                 </div>
             </div>
