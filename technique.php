@@ -18,15 +18,15 @@
             <div class="row mx-0 mt-4 justify-content-center">
               <div class="home-font">"บริการดี ตรงต่อเวลา ราคาประหยัด ซื่อสัตย์ต่อลูกค้า "</div>
             </div>
-            <div class="row mx-0 tran-bg mt-5">อบรมความปลอดภัย</div>
+            <div class="row mx-0 tran-bg mt-5">เทคนิคการใช้งาน</div>
             <div class="row mt-4">
                 <div class="col-xl-4 col-lg-4 col-md-4">
                   <div class="tran-overlay-image">
-                    <img src="assets/images/traning/tran-1.jpg" class="tran-image-full" alt="BB-Rental"/>
+                    <img src="assets/images/traning/technic-1.jpg" class="tran-image-full" alt="BB-Rental"/>
                   </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8">
-                   <div class="tran-font">ระเบียบความปลอดภัย</div>
+                   <div class="tran-font">การซ่อมเครื่องจักรขนาดใหญ่</div>
                    <div class="tran-font2 mt-1">
                      โบว์ลิ่งกิมจิสหรัฐ ดีไซน์เนอร์ซัพพลายเออร์ เทรลเล่อร์คอมพ์ คอมเมนท์อีโรติกดีพาร์ทเมนท์ซิ่ง แอ๊บแบ๊วหลวงพี่สปาย บร็อกโคลีโดนัทไอซ์โชว์รูม
                      วาฟเฟิลไฮบริดรากหญ้าหมวยฮัลโลวีน คอร์ปอเรชั่นมิวสิคเพาเวอร์ป๋ารีไทร์ หม่านโถวไอติมภูมิทัศน์ ดั๊มพ์ ฮ่องเต้อีสเตอร์คอปเตอร์ชีส
@@ -44,11 +44,11 @@
             <div class="row mt-4">
                 <div class="col-xl-4 col-lg-4 col-md-4">
                   <div class="tran-overlay-image">
-                    <img src="assets/images/traning/tran-2.jpg" class="tran-image-full" alt="BB-Rental"/>
+                    <img src="assets/images/traning/technic-2.jpg" class="tran-image-full" alt="BB-Rental"/>
                   </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8">
-                   <div class="tran-font">การสังเกตเพื่อความปลอดภัย</div>
+                   <div class="tran-font">การควบคุมเครื่องจักร</div>
                    <div class="tran-font2 mt-1">
                      โบว์ลิ่งกิมจิสหรัฐ ดีไซน์เนอร์ซัพพลายเออร์ เทรลเล่อร์คอมพ์ คอมเมนท์อีโรติกดีพาร์ทเมนท์ซิ่ง แอ๊บแบ๊วหลวงพี่สปาย บร็อกโคลีโดนัทไอซ์โชว์รูม
                      วาฟเฟิลไฮบริดรากหญ้าหมวยฮัลโลวีน คอร์ปอเรชั่นมิวสิคเพาเวอร์ป๋ารีไทร์ หม่านโถวไอติมภูมิทัศน์ ดั๊มพ์ ฮ่องเต้อีสเตอร์คอปเตอร์ชีส
@@ -66,11 +66,11 @@
             <div class="row mt-4">
                 <div class="col-xl-4 col-lg-4 col-md-4">
                   <div class="tran-overlay-image">
-                    <img src="assets/images/traning/tran-3.jpg" class="tran-image-full" alt="BB-Rental"/>
+                    <img src="assets/images/traning/technic-3.jpg" class="tran-image-full" alt="BB-Rental"/>
                   </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8">
-                   <div class="tran-font">ปลอดภัยไว้ก่อน</div>
+                   <div class="tran-font">ใช้เครื่องจักรให้ถูกประเภท</div>
                    <div class="tran-font2 mt-1">
                      โบว์ลิ่งกิมจิสหรัฐ ดีไซน์เนอร์ซัพพลายเออร์ เทรลเล่อร์คอมพ์ คอมเมนท์อีโรติกดีพาร์ทเมนท์ซิ่ง แอ๊บแบ๊วหลวงพี่สปาย บร็อกโคลีโดนัทไอซ์โชว์รูม
                      วาฟเฟิลไฮบริดรากหญ้าหมวยฮัลโลวีน คอร์ปอเรชั่นมิวสิคเพาเวอร์ป๋ารีไทร์ หม่านโถวไอติมภูมิทัศน์ ดั๊มพ์ ฮ่องเต้อีสเตอร์คอปเตอร์ชีส

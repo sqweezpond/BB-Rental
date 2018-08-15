@@ -7,13 +7,13 @@
 								 <div class="col-xl-3 col-lg-3 col-">
 									  <a href="index.php">
 												<div class="nav-overlay-image">
-														<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full"/>
+														<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full" alt="BB-Rental"/>
 												</div>
 										</a>
 									</div>
 									<div class="col-xl-6 col-lg-6 text-center">
 											<div class="nav-overlay-image2">
-													<img src="assets/images/logo/FONT-BB.png" class="nav-image-full">
+													<img src="assets/images/logo/FONT-BB.png" class="nav-image-full" alt="BB-Rental"/>
 											</div>
 									</div>
 									<div class="col-xl-3 col-lg-3 text-right">
@@ -89,7 +89,7 @@
 					<div class="col-6">
 						  <a href="index.php">
 								<div class="nav-overlay-image">
-										<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full"/>
+										<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full" alt="BB-Rental"/>
 								</div>
 							</a>
 					</div>
