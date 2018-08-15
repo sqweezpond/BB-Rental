@@ -42,12 +42,37 @@
 }
 .contact-text-map{
   font-size: 20px;
-  color: #0062ab;
+  color: #054d84;
   font-weight: 500;
 
 }
 
 /*--------contact end----------*/
+
+/*---------product_detail------*/
+
+.pro_nav_tap{
+  background-color: #35379d;
+  color: #f8e803;
+  border: 1px solid;
+  border-color: #1e2771;
+}
+.pro_nav_tap:hover{
+  background-color: #35379d;
+  color: #f8e803;
+  border: 1px solid;
+  border-color: #1e2771;
+}
+.nav-pills .nav-link {
+    border-radius: 0px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #020202;
+    background-color: #f8e803;
+    border: 0px solid;
+}
+
+/*---------product_detail end------*/
 
 
 /*Extra small devices (portrait phones, less than 576px)*/
