@@ -7,7 +7,7 @@
 								 <div class="col-xl-3 col-lg-3 col-">
 									  <a href="index.php">
 												<div class="nav-overlay-image">
-														<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full">
+														<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full"/>
 												</div>
 										</a>
 									</div>
@@ -57,7 +57,7 @@
 					<div class="row">
 							<div class="navbar px-0">
 								  <a href="index.php">หน้าหลัก</a>
-								  <a href="#" class="nav-m-l">เกี่ยวกับบริษัท</a>
+								  <a href="about.php" class="nav-m-l">เกี่ยวกับบริษัท</a>
 									<a href="condition.php" class="nav-m-l">เงื่อนไขการเช่า</a>
 									<a href="brand.php" class="nav-m-l">ประวัติการเช่า</a>
 								  <div class="dropdown nav-m-l">
@@ -89,7 +89,7 @@
 					<div class="col-6">
 						  <a href="index.php">
 								<div class="nav-overlay-image">
-										<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full">
+										<img src="assets/images/logo/LOGO-BB.png" class="nav-image-full"/>
 								</div>
 							</a>
 					</div>
@@ -104,7 +104,7 @@
 									         <a class="nav-link" href="index.php">หน้าหลัก</a>
 									      </li>
 									      <li class="nav-item">
-									         <a class="nav-link" href="#">เกี่ยวกับบริษัท</a>
+									         <a class="nav-link" href="about.php">เกี่ยวกับบริษัท</a>
 									      </li>
 									      <li class="nav-item">
 									         <a class="nav-link" href="condition.php">เงื่อนไขการเช่า</a>

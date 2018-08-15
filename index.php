@@ -28,7 +28,7 @@
                   <div class="item">
                       <div class="home-block">
                           <div class="home-overlay-image">
-                            <img src="assets/images/product/product-23.png" class="home-image-full image-btn">
+                            <img src="assets/images/product/product-23.png" class="home-image-full image-btn"/>
                           </div>
                           <div class="middle">
                             <div class="home-text">VIEW MORE</div>
@@ -39,7 +39,7 @@
                   <div class="item">
                       <div class="home-block">
                           <div class="home-overlay-image">
-                            <img src="assets/images/product/product-27.png" class="home-image-full image-btn">
+                            <img src="assets/images/product/product-27.png" class="home-image-full image-btn"/>
                           </div>
                           <div class="middle">
                             <div class="home-text">VIEW MORE</div>
@@ -50,7 +50,7 @@
                   <div class="item">
                       <div class="home-block">
                           <div class="home-overlay-image">
-                            <img src="assets/images/product/product-50.png" class="home-image-full image-btn">
+                            <img src="assets/images/product/product-50.png" class="home-image-full image-btn"/>
                           </div>
                           <div class="middle">
                             <div class="home-text">VIEW MORE</div>
@@ -61,7 +61,7 @@
                   <div class="item">
                       <div class="home-block">
                           <div class="home-overlay-image">
-                            <img src="assets/images/product/product-47.png" class="home-image-full image-btn">
+                            <img src="assets/images/product/product-47.png" class="home-image-full image-btn"/>
                           </div>
                           <div class="middle">
                             <div class="home-text">VIEW MORE</div>
@@ -72,7 +72,7 @@
                   <div class="item">
                       <div class="home-block">
                           <div class="home-overlay-image">
-                            <img src="assets/images/product/product-50.png" class="home-image-full image-btn">
+                            <img src="assets/images/product/product-50.png" class="home-image-full image-btn"/>
                           </div>
                           <div class="middle">
                             <div class="home-text">VIEW MORE</div>
@@ -83,7 +83,7 @@
                   <div class="item">
                       <div class="home-block">
                           <div class="home-overlay-image">
-                            <img src="assets/images/product/product-50.png" class="home-image-full image-btn">
+                            <img src="assets/images/product/product-50.png" class="home-image-full image-btn"/>
                           </div>
                           <div class="middle">
                             <div class="home-text">VIEW MORE</div>
@@ -94,7 +94,7 @@
                   <div class="item">
                       <div class="home-block">
                           <div class="home-overlay-image">
-                            <img src="assets/images/product/product-27.png" class="home-image-full image-btn">
+                            <img src="assets/images/product/product-27.png" class="home-image-full image-btn"/>
                           </div>
                           <div class="middle">
                             <div class="home-text">VIEW MORE</div>
@@ -116,7 +116,7 @@
                     <div class="item">
                         <div class="home-block">
                             <div class="home-overlay-image3">
-                              <img src="assets/images/product/product-22.png" class="home-image-full image-btn">
+                              <img src="assets/images/product/product-22.png" class="home-image-full image-btn"/>
                             </div>
                             <div class="middle">
                               <div class="home-text">VIEW MORE</div>
@@ -127,7 +127,7 @@
                     <div class="item">
                         <div class="home-block">
                             <div class="home-overlay-image3">
-                              <img src="assets/images/product/product-32.png" class="home-image-full image-btn">
+                              <img src="assets/images/product/product-32.png" class="home-image-full image-btn"/>
                             </div>
                             <div class="middle">
                               <div class="home-text">VIEW MORE</div>
@@ -138,7 +138,7 @@
                     <div class="item">
                         <div class="home-block">
                             <div class="home-overlay-image3">
-                              <img src="assets/images/product/product-35.png" class="home-image-full image-btn">
+                              <img src="assets/images/product/product-35.png" class="home-image-full image-btn"/>
                             </div>
                             <div class="middle">
                               <div class="home-text">VIEW MORE</div>
@@ -149,7 +149,7 @@
                     <div class="item">
                         <div class="home-block">
                             <div class="home-overlay-image3">
-                              <img src="assets/images/product/product-26.png" class="home-image-full image-btn">
+                              <img src="assets/images/product/product-26.png" class="home-image-full image-btn"/>
                             </div>
                             <div class="middle">
                               <div class="home-text">VIEW MORE</div>
@@ -160,7 +160,7 @@
                     <div class="item">
                         <div class="home-block">
                             <div class="home-overlay-image3">
-                              <img src="assets/images/product/product-5.png" class="home-image-full image-btn">
+                              <img src="assets/images/product/product-5.png" class="home-image-full image-btn"/>
                             </div>
                             <div class="middle">
                               <div class="home-text">VIEW MORE</div>
@@ -171,7 +171,7 @@
                     <div class="item">
                         <div class="home-block">
                             <div class="home-overlay-image3">
-                              <img src="assets/images/product/product-35.png" class="home-image-full image-btn">
+                              <img src="assets/images/product/product-35.png" class="home-image-full image-btn"/>
                             </div>
                             <div class="middle">
                               <div class="home-text">VIEW MORE</div>
@@ -182,7 +182,7 @@
                     <div class="item">
                         <div class="home-block">
                             <div class="home-overlay-image3">
-                              <img src="assets/images/product/product-26.png" class="home-image-full image-btn">
+                              <img src="assets/images/product/product-26.png" class="home-image-full image-btn"/>
                             </div>
                             <div class="middle">
                               <div class="home-text">VIEW MORE</div>
@@ -243,12 +243,6 @@
                 </a>
               </span>
           </div>
-
-
-
-
-
-
 
             <!-- END CONTANER ------>
         </div>

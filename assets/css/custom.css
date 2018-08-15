@@ -523,6 +523,56 @@ body {
 ----------- END CONDITION ----------------
 ---------------------------------------*/
 
+/*-------------------------------------
+--------------- ABOUT ----------------
+---------------------------------------*/
+.about-font{
+    font-size: 16px;
+    font-weight: 300;
+}
+.about-bg{
+    background-color: #ffd700;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.about-overlay-image {
+    position: relative;
+    height: 45vmin;
+    width: 100%;
+    overflow: hidden;
+}
+.about-overlay-image2 {
+    position: relative;
+    height: 25vmin;
+    width: 100%;
+    overflow: hidden;
+}
+.about-image-full {
+    position: absolute;
+    display: block;
+    width: auto;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.about-image-full2 {
+    position: absolute;
+    display: block;
+    width: auto;
+    height: 123%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.about-iframe{
+    width: 100%;
+    height: 620px;
+}
+/*-------------------------------------
+--------------- END ABOUT ---------------
+---------------------------------------*/
 
 
 /*Extra small devices (portrait phones, less than 576px)*/
@@ -761,10 +811,61 @@ body {
   /*-------------------------------------
   -------- END CONDITION 575.98 ------------
   ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------- ABOUT 575.98 ------------
+  ---------------------------------------*/
+  .about-font {
+      font-size: 13px;
+      font-weight: 300;
+  }
+  .about-bg {
+      background-color: #ffd700;
+      padding: 10px;
+      font-size: 15px;
+      font-weight: 500;
+  }
+  .about-image-full {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-overlay-image {
+      position: relative;
+      height: 65vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-overlay-image2 {
+      position: relative;
+      height: 55vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-image-full2 {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-iframe {
+      width: 100%;
+      height: 215px;
+  }
+  /*-------------------------------------
+  ----------- END ABOUT 575.98 ------------
+  ---------------------------------------*/
 }
 
-@media (max-width: 568px) and (max-height: 320px){
 
+@media (max-width: 568px) and (max-height: 320px){
   /*-------------------------------------
   ------- HOME iphone 5 landscape -------
   ---------------------------------------*/
@@ -830,22 +931,45 @@ body {
       background-color: #3d3ea78f;
       background-blend-mode: multiply;
   }
-/*-------------------------------------
------- END HOME iphone 5 landscape -------
----------------------------------------*/
-
   /*-------------------------------------
-  ------ CONDITION iphone 5 landscape --------
+  ------ END HOME iphone 5 landscape -------
   ---------------------------------------*/
+
+  /*----------------------------------------
+  ------ CONDITION iphone 5 landscape --------
+  ------------------------------------------*/
   .con-overlay-image {
       position: relative;
       height: 24vmin;
       width: 41%;
       overflow: hidden;
   }
-  /*-------------------------------------
+  /*-----------------------------------------
   ---- END CONDITION iphone 5 landscape ------
-  ---------------------------------------*/
+  ------------------------------------------*/
+
+  /*-----------------------------------------
+  -------  ABOUT iphone 5 landscape ---------
+  ------------------------------------------*/
+  .about-iframe {
+      width: 100%;
+      height: 290px;
+  }
+  .about-overlay-image {
+      position: relative;
+      height: 115vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-overlay-image2 {
+      position: relative;
+      height: 95vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  /*-----------------------------------------
+  ------ END ABOUT iphone 5 landscape --------
+  ------------------------------------------*/
 }
 
 /*=Small devices (landscape phones, 576px and up)*/
@@ -1058,6 +1182,48 @@ body {
   }
   /*-------------------------------------
   -------- END CONDITION 576 ------------
+  ---------------------------------------*/
+
+  /*-------------------------------------
+  -------------- ABOUT 576 ----------------
+  ---------------------------------------*/
+  .about-font {
+      font-size: 14px;
+      font-weight: 300;
+  }
+  .about-bg {
+      background-color: #ffd700;
+      padding: 10px;
+      font-size: 15px;
+      font-weight: 500;
+  }
+  .about-iframe {
+      width: 100%;
+      height: 286px;
+  }
+  .about-overlay-image {
+      position: relative;
+      height: 96vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-image-full2 {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-overlay-image2 {
+      position: relative;
+      height: 70vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  /*-------------------------------------
+  ---------- END ABOUT 576 --------------
   ---------------------------------------*/
 }
 
@@ -1278,6 +1444,47 @@ body {
   /*-------------------------------------
   --------- END CONDITION 768 -----------
   ---------------------------------------*/
+
+  /*-------------------------------------
+  ------------ ABOUT 768 ------------s---
+  ---------------------------------------*/
+  .about-overlay-image {
+      position: relative;
+      height: 60vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-image-full {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-image-full2 {
+      position: absolute;
+      display: block;
+      width: auto;
+      height: 127%;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-overlay-image2 {
+      position: relative;
+      height: 19vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-iframe {
+      width: 100%;
+      height: 385px;
+  }
+  /*-------------------------------------
+  ------------ END ABOUT 768 -----------
+  ---------------------------------------*/
 }
 
 
@@ -1470,6 +1677,57 @@ body {
   /*-----------------------------------
   ---------- END CONDITION 992 -----------
   -------------------------------------*/
+
+  /*-------------------------------------
+  ------------ ABOUT 992 ----------------
+  ---------------------------------------*/
+  .about-font{
+      font-size: 15px;
+      font-weight: 300;
+  }
+  .about-bg{
+      background-color: #ffd700;
+      padding: 10px;
+      font-size: 18px;
+      font-weight: 500;
+  }
+  .about-overlay-image {
+      position: relative;
+      height: 48vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-overlay-image2 {
+      position: relative;
+      height: 19vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-image-full {
+      position: absolute;
+      display: block;
+      width: auto;
+      height: 100%;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-image-full2 {
+      position: absolute;
+      display: block;
+      width: auto;
+      height: 123%;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+  .about-iframe {
+      width: 100%;
+      height: 520px;
+  }
+  /*-------------------------------------
+  ------------ END ABOUT 992 ---------------
+  ---------------------------------------*/
 }
 
 
@@ -1748,6 +2006,33 @@ body {
   }
   /*-----------------------------------
   ---------- END CONDITION 1200 -----------
+  -------------------------------------*/
+
+  /*-----------------------------------
+  ------------ ABOUT 1200 -------------
+  -------------------------------------*/
+  .about-font {
+      font-size: 16px;
+      font-weight: 300;
+  }
+  .about-overlay-image {
+      position: relative;
+      height: 46vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-overlay-image2 {
+      position: relative;
+      height: 25vmin;
+      width: 100%;
+      overflow: hidden;
+  }
+  .about-iframe {
+      width: 100%;
+      height: 620px;
+  }
+  /*-----------------------------------
+  ------------ END ABOUT 1200 -----------
   -------------------------------------*/
 }
 
