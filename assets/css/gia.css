@@ -1,5 +1,8 @@
-
-
+/*-------all-------------*/
+.text-Yellow{
+  color: #f8e803;
+}
+/*-------all end-------------*/
 
 /*-------brand-----------*/
 .text-head-brand{
@@ -114,6 +117,68 @@
 .pro-bg-0{
   margin: 0px 10px 0px 0px;
   padding: 5px 0px 0px 0px;
+}
+.pro-btn{
+    color: #000;
+    background-color: #f8e803;
+    border-color: #f8e803;
+    border-radius: 0px;
+    font-size: small;
+    padding: 14px 9px 10px 9px;
+  }
+  .pro-btn-1{
+    color: #fff;
+    background-color: #0f3c71;
+    border-color: #103d72;
+    border-radius: 0px;
+    font-size: small;
+    padding: 5px 20px 0px 20px;
+}
+.pro-btn:hover{
+    color: #000;
+    background-color: #f8e803;
+    border-color: #f8e803;
+    border-radius: 0px;
+    font-size: small;
+    padding: 14px 9px 10px 9px;
+  }
+  .pro-btn-1:hover{
+    color: #fff;
+    background-color: #0f3c71;
+    border-color: #103d72;
+    border-radius: 0px;
+    font-size: small;
+    padding: 5px 20px 0px 20px;
+}
+.pro-sale-pomo {
+  background-color: red;
+  color: #fff;
+  position: absolute;
+  width: 50%;
+  -webkit-transform-origin: 0 0;
+  -webkit-transform: rotate(45deg);
+  left: 20rem;
+  top: -3rem;
+  text-align: center;
+}
+.pro-hidden {
+  overflow: hidden;
+}
+.card {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0px;
 }
 
 /*---------product_detail end------*/
