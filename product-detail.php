@@ -39,33 +39,33 @@
 
                             <div class="row mx-0 owl-carousel owl-theme slide-img">
                                     <div class="item p-1">
-                                        <div class="product-overlay-coulasel">
-                                            <img src = "assets/images/product/product-10.png" class="product-image-coulasel demo" onclick="currentDiv(1)">
+                                        <div class="product-overlay-coulasel detail-fix-img">
+                                            <img src = "assets/images/product/product-10.png" class="product-image-coulasel demo detail-img" onclick="currentDiv(1)">
                                         </div>
                                     </div>
                                     <div class="item p-1">
-                                        <div class="product-overlay-coulasel">
-                                            <img src = "assets/images/product/product-11.png" class="product-image-coulasel demo" onclick="currentDiv(2)">
+                                        <div class="product-overlay-coulasel detail-fix-img">
+                                            <img src = "assets/images/product/product-11.png" class="product-image-coulasel demo detail-img" onclick="currentDiv(2)">
                                         </div>
                                     </div>
                                     <div class="item p-1">
-                                        <div class="product-overlay-coulasel">
-                                            <img src = "assets/images/product/product-12.png" class="product-image-coulasel demo" onclick="currentDiv(3)">
+                                        <div class="product-overlay-coulasel detail-fix-img">
+                                            <img src = "assets/images/product/product-12.png" class="product-image-coulasel demo detail-img" onclick="currentDiv(3)">
                                         </div>
                                     </div>
                                     <div class="item p-1">
-                                        <div class="product-overlay-coulasel">
-                                            <img src = "assets/images/product/product-13.png" class="product-image-coulasel demo" onclick="currentDiv(4)">
+                                        <div class="product-overlay-coulasel detail-fix-img">
+                                            <img src = "assets/images/product/product-13.png" class="product-image-coulasel demo detail-img" onclick="currentDiv(4)">
                                         </div>
                                     </div>
                                     <div class="item p-1">
-                                        <div class="product-overlay-coulasel">
-                                            <img src = "assets/images/product/product-14.png" class="product-image-coulasel demo" onclick="currentDiv(5)">
+                                        <div class="product-overlay-coulasel detail-fix-img">
+                                            <img src = "assets/images/product/product-14.png" class="product-image-coulasel demo detail-img" onclick="currentDiv(5)">
                                         </div>
                                     </div>
                                     <div class="item p-1">
-                                        <div class="product-overlay-coulasel">
-                                            <img src = "assets/images/product/product-15.png" class="product-image-coulasel demo" onclick="currentDiv(6)">
+                                        <div class="product-overlay-coulasel detail-fix-img">
+                                            <img src = "assets/images/product/product-15.png" class="product-image-coulasel demo detail-img" onclick="currentDiv(6)">
                                         </div>
                                     </div>
                             </div>
@@ -91,7 +91,7 @@
                         <div>
                           <p>- มั่นใจในคุณภาพด้วยการใช้ชิ้นส่วนจากผู้ผลิตชั้นนำจากทั่วโลก</p>
                         </div>
-                        <div class="col-6">
+                        <div class="col-xl-6 col-lg-6 col-12">
                           <div class="pro-bg-1">
                             <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
                           </div>
@@ -108,9 +108,9 @@
                             <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
                           </div>
                         </div>
-                        <div class="col-6"></div>
+                        <div class="col-xl-6 col-lg-6 col-12"></div>
                         <div class="col-lg-12">
-                          <a class="btn btn-primary pro-btn-1" href="#" role="button"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download <p class="mb-0">Spec Sheep</p></a>
+                          <a class="btn btn-primary pro-btn-1 my-3" href="#" role="button"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download <p class="mb-0">Spec Sheep</p></a>
                         </div>
                       </div>
                     </div>
