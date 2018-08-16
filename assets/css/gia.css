@@ -24,7 +24,7 @@
   left: 50%;
   transform: translate(-50%,-50%);
   width: 100%;
-  height: 11vmin;
+
 }
 /*-------brand end---------*/
 
@@ -52,7 +52,7 @@
 
 /*--------contact end----------*/
 
-/*---------product_detail------*/
+/*---------product-------*/
 
 .pro_nav_tap{
   background-color: #35379d;
@@ -181,26 +181,382 @@
     border-radius: 0px;
 }
 
-/*---------product_detail end------*/
+.page-link {
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #000000;
+    background-color: #fff;
+    border: 0px solid #ffffff;
+    margin: 2px;
+    height: 34px;
+    width: 35px;
+}
+.page-link:hover {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #36399d;
+    border-color: #ffffff;
+    border-radius: 33px;
+    margin: 2px;
+    height: 34px;
+    width: 35px;
+}
+.page-item.active .page-link {
+    z-index: 1;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #36399d;
+    border-color: #ffffff;
+    border-radius: 33px;
+    margin: 2px;
+    height: 34px;
+    width: 35px;
+}
+
+/*---------product end------*/
+
+/*---------product_detail--------*/
+.text-detail{
+  font-size: 24px;
+  color: #0f3c70;
+  font-weight: 500;
+}
+
+
+
+
+/*---------product-detail end------*/
+
+
+
+
 
 
 /*Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
+  .contact-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 80vmin;
+}
+
+.text-head-brand{
+  font-size: 13px;
+}
+.pro-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 80vmin;
+}
+.pro-sale-pomo {
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    width: 136%;
+    -webkit-transform-origin: 0 0;
+    -webkit-transform: rotate(45deg);
+    left: 11rem;
+    top: -11rem;
+    text-align: center;
+}
+.pro-bg-1 {
+    background-color: #9e9e9e4a;
+    margin: 0px 0px 0px 0px;
+    padding: 5px 0px 0px 0px;
+}
 
 
 }
+
+
+
+
+@media (min-width: 248px) {
+  .pro-sale-pomo {
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    width: 80%;
+    -webkit-transform-origin: 0 0;
+    -webkit-transform: rotate(45deg);
+    left: 9rem;
+    top: -2rem;
+    text-align: center;
+}
+
+
+@media (min-width: 290px) {
+  .pro-sale-pomo {
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    width: 106%;
+    -webkit-transform-origin: 0 0;
+    -webkit-transform: rotate(45deg);
+    left: 9rem;
+    top: -5rem;
+    text-align: center;
+}
+}
+
+@media (min-width: 444px) {
+  .pro-sale-pomo {
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    width: 136%;
+    -webkit-transform-origin: 0 0;
+    -webkit-transform: rotate(45deg);
+    left: 11rem;
+    top: -11rem;
+    text-align: center;
+}
+
+}
+
+
+
+}
+
+
+@media (min-width: 554px)  {
+  .pro-sale-pomo {
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    width: 61%;
+    -webkit-transform-origin: 0 0;
+    -webkit-transform: rotate(45deg);
+    left: 23rem;
+    top: -4rem;
+    text-align: center;
+}
+
+}
+
+@media (min-width: 556px)  {
+  .pro-sale-pomo {
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    width: 61%;
+    -webkit-transform-origin: 0 0;
+    -webkit-transform: rotate(45deg);
+    left: 23rem;
+    top: -4rem;
+    text-align: center;
+}
+
+}
+
+/*แนวนแน ไอ5*/
+@media (min-width: 568px) {
+  .contact-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 110vmin;
+}
+.text-head-brand{
+  font-size: 15px;
+}
+.brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 35vmin;
+}
+.pro-sale-pomo {
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    -webkit-transform-origin: 0 0;
+    -webkit-transform: rotate(45deg);
+    left: 20rem;
+    top: -10rem;
+    text-align: center;
+}
+.pro-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 135vmin;
+}
+
+}
+
+
+
 
 
 /*=Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) {
+  .contact-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 60vmin;
+}
+.brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 20vmin;
+}
+
+.pro-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 80vmin;
+}
+
+}
+
+/*ไอโพน6 แนวนอน*/
+@media (min-width: 667px)  {
+  .contact-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 90vmin;
+}
+.brand-fix-img {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 30vmin;
+}
+.pro-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 110vmin;
+}
 
 
 }
+
+@media (min-width: 668px) {
+  .pro-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 65vmin;
+}
+
+}
+
+
+@media (min-width: 680px) {
+  .brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 20vmin;
+}
+.contact-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 60vmin;
+}
+
+}
+
+
+/*ไอโพน6 แนวนอน plus*/
+@media (min-width: 736px) {
+  .contact-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 80vmin;
+}
+.brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 25vmin;
+}
+.pro-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 100vmin;
+}
+
+}
+
+@media (min-width:744px) {
+  .pro-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 65vmin;
+}
+
+}
+
+
+
+
+@media (min-width: 760px) {
+  .brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 20vmin;
+}
+
+
+}
+
+
 
 
 
 /*Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) {
+  .contact-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 55vmin;
+}
+.text-head-brand{
+  font-size: 25px;
+}
+.brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 15vmin;
+}
+.pro-sale-pomo {
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    width: 60%;
+    -webkit-transform-origin: 0 0;
+    -webkit-transform: rotate(45deg);
+    left: 30rem;
+    top: -5rem;
+    text-align: center;
+}
+.pro-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 70vmin;
+}
+
 
 
 }
@@ -208,16 +564,114 @@
 
 /*Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
+  .contact-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 70vmin;
+}
+
+.text-head-brand{
+  font-size: 25px;
+}
+
+.brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 20vmin;
+}
+.pro-sale-pomo {
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    width: 46%;
+    -webkit-transform-origin: 0 0;
+    -webkit-transform: rotate(45deg);
+    left: 17rem;
+    top: -2rem;
+    text-align: center;
+}
+.pro-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 30vmin;
+}
 
 
 
 }
 
 
+
+
 /*Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {
+  .contact-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 85vmin;
+}
+
+.brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 20vmin;
+}
+.pro-sale-pomo {
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    width: 77%;
+    -webkit-transform-origin: 0 0;
+    -webkit-transform: rotate(45deg);
+    left: 17rem;
+    top: -5rem;
+    text-align: center;
+}
+.pro-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 20vmin;
+}
 
 
 }
 
 @media (min-width: 1600px) {
+  .contact-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 85vmin;
+}
+.brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 20vmin;
+}
+
+.pro-sale-pomo {
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    width: 50%;
+    -webkit-transform-origin: 0 0;
+    -webkit-transform: rotate(45deg);
+    left: 20rem;
+    top: -3rem;
+    text-align: center;
+}
+.pro-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 20vmin;
+}
+
+}
