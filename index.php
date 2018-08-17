@@ -31,7 +31,9 @@
                             <img src="assets/images/product/product-23.png" class="home-image-full image-btn" alt="BB-Rental"/>
                           </div>
                           <div class="middle">
-                            <div class="home-text">VIEW MORE</div>
+                            <a href="product-detail.php" class="txt-none">
+                               <div class="home-text">VIEW MORE</div>
+                            </a>
                           </div>
                       </div>
                       <div class="home-font4">ลิฟต์กระเช้าแบบเสากระโดงขึ้นตรง</div>
@@ -42,7 +44,9 @@
                             <img src="assets/images/product/product-27.png" class="home-image-full image-btn" alt="BB-Rental"/>
                           </div>
                           <div class="middle">
-                            <div class="home-text">VIEW MORE</div>
+                            <a href="product-detail.php" class="txt-none">
+                              <div class="home-text">VIEW MORE</div>
+                            </a>
                           </div>
                       </div>
                       <div class="home-font4">ลิฟต์กระเช้าส่วนบุคคล GENIE</div>
@@ -53,7 +57,9 @@
                             <img src="assets/images/product/product-50.png" class="home-image-full image-btn" alt="BB-Rental"/>
                           </div>
                           <div class="middle">
-                            <div class="home-text">VIEW MORE</div>
+                            <a href="product-detail.php" class="txt-none">
+                              <div class="home-text">VIEW MORE</div>
+                            </a>
                           </div>
                       </div>
                       <div class="home-font4">ลิฟต์กระเช้าแบบกรรไกร GENIE</div>
@@ -64,7 +70,9 @@
                             <img src="assets/images/product/product-47.png" class="home-image-full image-btn" alt="BB-Rental"/>
                           </div>
                           <div class="middle">
-                            <div class="home-text">VIEW MORE</div>
+                            <a href="product-detail.php" class="txt-none">
+                              <div class="home-text">VIEW MORE</div>
+                            </a>
                           </div>
                       </div>
                       <div class="home-font4">ลิฟต์กระเช้าแบบกรรไกร JLG</div>
@@ -75,7 +83,9 @@
                             <img src="assets/images/product/product-50.png" class="home-image-full image-btn" alt="BB-Rental"/>
                           </div>
                           <div class="middle">
-                            <div class="home-text">VIEW MORE</div>
+                            <a href="product-detail.php" class="txt-none">
+                              <div class="home-text">VIEW MORE</div>
+                            </a>
                           </div>
                       </div>
                       <div class="home-font4">รถบูมลิพท์ GENIE</div>
@@ -86,7 +96,9 @@
                             <img src="assets/images/product/product-50.png" class="home-image-full image-btn" alt="BB-Rental"/>
                           </div>
                           <div class="middle">
-                            <div class="home-text">VIEW MORE</div>
+                            <a href="product-detail.php" class="txt-none">
+                              <div class="home-text">VIEW MORE</div>
+                            </a>
                           </div>
                       </div>
                       <div class="home-font4">ลิฟต์กระเช้าแบบกรรไกร GENIE</div>
@@ -97,7 +109,9 @@
                             <img src="assets/images/product/product-27.png" class="home-image-full image-btn" alt="BB-Rental"/>
                           </div>
                           <div class="middle">
-                            <div class="home-text">VIEW MORE</div>
+                            <a href="product-detail.php" class="txt-none">
+                              <div class="home-text">VIEW MORE</div>
+                            </a>
                           </div>
                       </div>
                       <div class="home-font4">ลิฟต์กระเช้าส่วนบุคคล GENIE</div>
@@ -119,7 +133,9 @@
                               <img src="assets/images/product/product-22.png" class="home-image-full image-btn" alt="BB-Rental"/>
                             </div>
                             <div class="middle">
-                              <div class="home-text">VIEW MORE</div>
+                              <a href="product-detail.php" class="txt-none">
+                                <div class="home-text">VIEW MORE</div>
+                              </a>
                             </div>
                         </div>
                         <div class="home-font4">รถดัมพ์</div>
@@ -130,7 +146,9 @@
                               <img src="assets/images/product/product-32.png" class="home-image-full image-btn"/>
                             </div>
                             <div class="middle">
-                              <div class="home-text">VIEW MORE</div>
+                              <a href="product-detail.php" class="txt-none">
+                                <div class="home-text">VIEW MORE</div>
+                              </a>
                             </div>
                         </div>
                         <div class="home-font4">รถแบ็คโฮ / รถขุดตีนตะขาบ</div>
@@ -141,7 +159,9 @@
                               <img src="assets/images/product/product-35.png" class="home-image-full image-btn" alt="BB-Rental"/>
                             </div>
                             <div class="middle">
-                              <div class="home-text">VIEW MORE</div>
+                              <a href="product-detail.php" class="txt-none">
+                                <div class="home-text">VIEW MORE</div>
+                              </a>
                             </div>
                         </div>
                         <div class="home-font4">รถแบ็คโฮ / รถขุดล้อยาง</div>
@@ -152,7 +172,9 @@
                               <img src="assets/images/product/product-26.png" class="home-image-full image-btn" alt="BB-Rental"/>
                             </div>
                             <div class="middle">
-                              <div class="home-text">VIEW MORE</div>
+                              <a href="product-detail.php" class="txt-none">
+                                <div class="home-text">VIEW MORE</div>
+                              </a>
                             </div>
                         </div>
                         <div class="home-font4">รถตักหน้าขุดหลัง</div>
@@ -163,7 +185,9 @@
                               <img src="assets/images/product/product-5.png" class="home-image-full image-btn" alt="BB-Rental"/>
                             </div>
                             <div class="middle">
-                              <div class="home-text">VIEW MORE</div>
+                              <a href="product-detail.php" class="txt-none">
+                                <div class="home-text">VIEW MORE</div>
+                              </a>
                             </div>
                         </div>
                         <div class="home-font4">รถบดล้อยาง</div>
@@ -174,7 +198,9 @@
                               <img src="assets/images/product/product-35.png" class="home-image-full image-btn" alt="BB-Rental"/>
                             </div>
                             <div class="middle">
-                              <div class="home-text">VIEW MORE</div>
+                              <a href="product-detail.php" class="txt-none">
+                                <div class="home-text">VIEW MORE</div>
+                              </a>
                             </div>
                         </div>
                         <div class="home-font4">รถแบ็คโฮ / รถขุดล้อยาง</div>
@@ -185,7 +211,9 @@
                               <img src="assets/images/product/product-26.png" class="home-image-full image-btn" alt="BB-Rental"/>
                             </div>
                             <div class="middle">
-                              <div class="home-text">VIEW MORE</div>
+                              <a href="product-detail.php" class="txt-none">
+                                <div class="home-text">VIEW MORE</div>
+                              </a>
                             </div>
                         </div>
                         <div class="home-font4">รถตักหน้าขุดหลัง</div>

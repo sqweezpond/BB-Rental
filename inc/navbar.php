@@ -42,7 +42,7 @@
 						</div>
 						<div class="col-xl-3 col-lg-3">
 								<div class="input-group">
-									  <input type="text" class="form-control nav-search-form" placeholder="ค้นหาครื่องจักร">
+									  <input type="text" class="form-control nav-search-form" placeholder="ค้นหาเครื่องจักร">
 								</div>
 						</div>
 				</div>
@@ -61,7 +61,7 @@
 									<a href="condition.php" class="nav-m-l">เงื่อนไขการเช่า</a>
 									<a href="brand.php" class="nav-m-l">ประวัติการเช่า</a>
 								  <div class="dropdown nav-m-l">
-									    <button class="dropbtn">เครื่องจักรสำหรับเช่า</button>
+									    <button class="dropbtn"><a href = "product.php">เครื่องจักรสำหรับเช่า</a></button>
 									    <div class="dropdown-content">
 									      <a href="product.php">รถกระเช้าแบบบูมพับ</a>
 									      <a href="product.php">รถกระเช้าแบบบูมตรง</a>
@@ -113,7 +113,7 @@
 									         <a class="nav-link" href="brand.php">ประวัติการเช่า</a>
 									      </li>
 												<li class="nav-item dropdown">
-														<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+														<a class="nav-link dropdown-toggle" href="product.php" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 															เครื่องจักรสำหรับเช่า
 														</a>
 														<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">

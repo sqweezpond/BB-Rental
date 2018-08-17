@@ -137,7 +137,7 @@ body {
     font-size: 17px;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 5px 16px;
     text-decoration: none;
     transition: all 0.2s;
     font-weight: 300;
@@ -187,7 +187,7 @@ body {
     display: block;
 }
 .nav-m-l{
-    margin-left: 48px;
+    margin-left: 43px;
 }
 .btn.focus, .btn:focus {
     outline: 0;
@@ -1530,6 +1530,9 @@ body {
       font-weight: 500;
       cursor: pointer;
   }
+  .txt-none:hover{
+      text-decoration: none;
+  }
   .home-banner1 {
       background-image: url(../../assets/images/banner/banner-1.jpg);
       width: 100%;
@@ -1826,7 +1829,7 @@ body {
       font-size: 17px;
       color: white;
       text-align: center;
-      padding: 14px 16px;
+      padding: 5px 16px;
       text-decoration: none;
       transition: all 0.2s;
       font-weight: 300;
@@ -1856,6 +1859,7 @@ body {
       background-color: #35379d;
       min-width: 166px;
       z-index: 1;
+      margin-left: 10px;
   }
   .dropdown-content a {
       float: none;
@@ -1876,7 +1880,7 @@ body {
       display: block;
   }
   .nav-m-l{
-      margin-left: 18px;
+      margin-left: 13px;
   }
   /*----------- END NAVBAR 992 ------------*/
 
@@ -2038,7 +2042,7 @@ body {
 @media (min-width: 1200px) {
   /*----------- NAVBAR 1200 -----------------*/
   .nav-m-l {
-      margin-left: 48px;
+      margin-left: 43px;
   }
   .dropdown-content {
       display: none;
@@ -2046,6 +2050,7 @@ body {
       background-color: #35379d;
       min-width: 166px;
       z-index: 5;
+      margin-left: 20px;
   }
   /*----------- END NAVBAR 1200 --------------*/
 
