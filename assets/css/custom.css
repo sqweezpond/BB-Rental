@@ -249,7 +249,7 @@ body {
     text-decoration: none;
 }
 .home-font4{
-    font-size: 15px;
+    font-size: 13px;
     color: #333333;
     font-weight: 400;
     text-align: center;
@@ -761,14 +761,14 @@ body {
   }
   .home-overlay-image {
       position: relative;
-      height: 90vmin;
+      height: 50vmin;
       /* width: 84%; */
       overflow: hidden;
       /* left: 18%; */
   }
   .home-overlay-image3 {
       position: relative;
-      height: 75vmin;
+      height: 50vmin;
       /* width: 85%; */
       overflow: hidden;
       /* left: 13px; */
@@ -996,7 +996,7 @@ body {
       transition: all 0.3s;
       position: absolute;
       top: 28%;
-      left: 10%;
+      left: 1%;
   }
  .owl-carousel .owl-nav button.owl-next {
       color: #333333;
@@ -1005,7 +1005,7 @@ body {
       transition: all 0.3s;
       position: absolute;
       top: 28%;
-      right: 10%;
+      right: 1%;
   }
  .home-overlay-image3 {
       position: relative;
