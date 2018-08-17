@@ -2123,7 +2123,7 @@ body {
       transition: all 0.3s;
       position: absolute;
       top: 28%;
-      right: -3%;
+      right: -5%;
   }
   .owl-carousel .owl-nav button.owl-prev{
       color: #333333;
@@ -2132,7 +2132,7 @@ body {
       transition: all 0.3s;
       position: absolute;
       top: 28%;
-      left: -3%;
+      left: -5%;
   }
   .owl-carousel .owl-nav button.owl-next:hover, .owl-carousel .owl-nav button.owl-prev:hover{
       color: #999;
