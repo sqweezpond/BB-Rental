@@ -60,11 +60,11 @@
                                          <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
                                        </div>
                                        <div class="row mx-0 my-3 justify-content-center">
-                                         <div class="col-lg-6 col-6 text-center">
+                                         <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
                                            <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><p class="mb-0"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download</p> <span>Spec Sheep</span></button></a>
                                          </div>
-                                         <div class="ol-lg-6 col-6 text-center">
-                                           <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>More Detail</button></a>
+                                         <div class="ol-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                           <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center">More Detail</button></a>
                                          </div>
                                        </div>
                                      </div>
@@ -105,11 +105,11 @@
                                            <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
                                          </div>
                                          <div class="row mx-0 my-3 justify-content-center">
-                                           <div class="col-lg-6 col-6 text-center">
+                                           <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
                                              <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><p class="mb-0"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download</p> <span>Spec Sheep</span></button></a>
                                            </div>
-                                           <div class="ol-lg-6 col-6 text-center">
-                                             <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>More Detail</button></a>
+                                           <div class="ol-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                             <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center">More Detail</button></a>
                                            </div>
                                          </div>
                                        </div>
@@ -117,6 +117,84 @@
                                    </div>
                                  </div>
                                    <!-- card-1 end -->
+                                   <!-- card-1 -->
+                                   <div class="col-lg-6 tab-pane fade show active px-0">
+                                     <div class="card position-relative pro-hidden">
+                                       <div class="row">
+                                         <div class="col-lg-5 ">
+                                           <div class="pro-fix-img">
+                                             <img class="pro-img" src="assets/images/product/product-10.png" alt="Card image cap"/>
+                                           </div>
+                                         </div>
+                                         <div class="col-lg-7 ">
+                                           <p class="pro_text my-3">GS-1532</p>
+                                           <div class="pro-bg-1">
+                                             <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                           </div>
+                                           <div class="pro-bg-0">
+                                             <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                           </div>
+                                           <div class="pro-bg-1">
+                                             <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                           </div>
+                                           <div class="pro-bg-0">
+                                             <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                           </div>
+                                           <div class="pro-bg-1">
+                                             <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                           </div>
+                                           <div class="row mx-0 my-3 justify-content-center">
+                                             <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                               <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><p class="mb-0"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download</p> <span>Spec Sheep</span></button></a>
+                                             </div>
+                                             <div class="ol-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                               <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center">More Detail</button></a>
+                                             </div>
+                                           </div>
+                                         </div>
+                                       </div>
+                                     </div>
+                                   </div>
+                                     <!-- card-1 end -->
+                                     <!-- card-1 -->
+                                     <div class="col-lg-6 tab-pane fade show active px-0">
+                                       <div class="card position-relative pro-hidden">
+                                         <div class="row">
+                                           <div class="col-lg-5 ">
+                                             <div class="pro-fix-img">
+                                               <img class="pro-img" src="assets/images/product/product-10.png" alt="Card image cap"/>
+                                             </div>
+                                           </div>
+                                           <div class="col-lg-7 ">
+                                             <p class="pro_text my-3">GS-1532</p>
+                                             <div class="pro-bg-1">
+                                               <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                             </div>
+                                             <div class="pro-bg-0">
+                                               <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                             </div>
+                                             <div class="pro-bg-1">
+                                               <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                             </div>
+                                             <div class="pro-bg-0">
+                                               <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                             </div>
+                                             <div class="pro-bg-1">
+                                               <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                             </div>
+                                             <div class="row mx-0 my-3 justify-content-center">
+                                               <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                                 <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><p class="mb-0"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download</p> <span>Spec Sheep</span></button></a>
+                                               </div>
+                                               <div class="ol-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                                 <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center">More Detail</button></a>
+                                               </div>
+                                             </div>
+                                           </div>
+                                         </div>
+                                       </div>
+                                     </div>
+                                       <!-- card-1 end -->
                              </div>
                            </div>
                           <!-- end tap 1  -->
@@ -151,11 +229,11 @@
                                            <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
                                          </div>
                                          <div class="row mx-0 my-3 justify-content-center">
-                                           <div class="">
-                                             <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download Spec Sheep</button></a>
+                                           <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                             <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><p class="mb-0"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download</p> <span>Spec Sheep</span></button></a>
                                            </div>
-                                           <div class="">
-                                             <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>More Detail</button></a>
+                                           <div class="ol-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                             <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center">More Detail</button></a>
                                            </div>
                                          </div>
                                        </div>
@@ -204,11 +282,11 @@
                                         <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
                                       </div>
                                       <div class="row mx-0 my-3 justify-content-center">
-                                        <div class="">
-                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download Spec Sheep</button></a>
+                                        <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><p class="mb-0"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download</p> <span>Spec Sheep</span></button></a>
                                         </div>
-                                        <div class="">
-                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>More Detail</button></a>
+                                        <div class="ol-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center">More Detail</button></a>
                                         </div>
                                       </div>
                                     </div>
@@ -255,11 +333,11 @@
                                         <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
                                       </div>
                                       <div class="row mx-0 my-3 justify-content-center">
-                                        <div class="">
-                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download Spec Sheep</button></a>
+                                        <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><p class="mb-0"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download</p> <span>Spec Sheep</span></button></a>
                                         </div>
-                                        <div class="">
-                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>More Detail</button></a>
+                                        <div class="ol-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center">More Detail</button></a>
                                         </div>
                                       </div>
                                     </div>
@@ -306,11 +384,11 @@
                                         <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
                                       </div>
                                       <div class="row mx-0 my-3 justify-content-center">
-                                        <div class="">
-                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download Spec Sheep</button></a>
+                                        <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><p class="mb-0"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download</p> <span>Spec Sheep</span></button></a>
                                         </div>
-                                        <div class="">
-                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>More Detail</button></a>
+                                        <div class="ol-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center">More Detail</button></a>
                                         </div>
                                       </div>
                                     </div>
@@ -357,11 +435,11 @@
                                         <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
                                       </div>
                                       <div class="row mx-0 my-3 justify-content-center">
-                                        <div class="">
-                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download Spec Sheep</button></a>
+                                        <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><p class="mb-0"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download</p> <span>Spec Sheep</span></button></a>
                                         </div>
-                                        <div class="">
-                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>More Detail</button></a>
+                                        <div class="ol-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center">More Detail</button></a>
                                         </div>
                                       </div>
                                     </div>
@@ -408,11 +486,11 @@
                                         <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
                                       </div>
                                       <div class="row mx-0 my-3 justify-content-center">
-                                        <div class="">
-                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download Spec Sheep</button></a>
+                                        <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><p class="mb-0"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download</p> <span>Spec Sheep</span></button></a>
                                         </div>
-                                        <div class="">
-                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>More Detail</button></a>
+                                        <div class="ol-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center">More Detail</button></a>
                                         </div>
                                       </div>
                                     </div>
@@ -459,11 +537,11 @@
                                         <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
                                       </div>
                                       <div class="row mx-0 my-3 justify-content-center">
-                                        <div class="">
-                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download Spec Sheep</button></a>
+                                        <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><p class="mb-0"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download</p> <span>Spec Sheep</span></button></a>
                                         </div>
-                                        <div class="">
-                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>More Detail</button></a>
+                                        <div class="ol-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center">More Detail</button></a>
                                         </div>
                                       </div>
                                     </div>
@@ -510,11 +588,11 @@
                                         <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
                                       </div>
                                       <div class="row mx-0 my-3 justify-content-center">
-                                        <div class="col-lg-6 col-6 text-center">
-                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download <span>Spec Sheep</span></button></a>
+                                        <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><p class="mb-0"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download</p> <span>Spec Sheep</span></button></a>
                                         </div>
-                                        <div class="ol-lg-6 col-6 text-center">
-                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center"><i class="far fa-arrow-alt-circle-down mr-2"></i>More Detail</button></a>
+                                        <div class="ol-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
+                                          <a href="product-detail.php"><button type="button" class="btn btn-primary pro-btn text-center">More Detail</button></a>
                                         </div>
                                       </div>
                                     </div>
@@ -537,14 +615,14 @@
                       <div class="row mx-0 my-5 justify-content-center">
                         <nav aria-label="Page navigation example">
                          <ul class="pagination">
-                           <li class="page-item"><a class="page-link" href="#"><i class="fas fa-chevron-left"></i></a></a></li>
+                           <li class="page-item"><a class="page-link " href="#"><i class="fas fa-chevron-left"></i></a></li>
                            <li class="page-item active"><a class="page-link" href="#">1</a></li>
                            <li class="page-item"><a class="page-link" href="#">2</a></li>
                            <li class="page-item"><a class="page-link" href="#">3</a></li>
                            <li class="page-item"><a class="page-link" href="#">4</a></li>
                            <li class="page-item"><a class="page-link" href="#">5</a></li>
                            <li class="page-item"><a class="page-link" href="#">6</a></li>
-                           <li class="page-item"><a class="page-link" href="#"><i class="fas fa-chevron-right"></i></a></a></li>
+                           <li class="page-item"><a class="page-link" href="#"><i class="fas fa-chevron-right"></i></a></li>
                          </ul>
                        </nav>
                       </div>

@@ -109,8 +109,8 @@
                           </div>
                         </div>
                         <div class="col-xl-6 col-lg-6 col-12"></div>
-                        <div class="col-lg-12">
-                          <a class="btn btn-primary pro-btn-1 my-3" href="#" role="button"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download <p class="mb-0">Spec Sheep</p></a>
+                        <div class="col-lg-12 text-lg-left text-center">
+                          <a class="btn btn-primary pro-btn-2 my-3" href="#" role="button"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download <p class="mb-0">Spec Sheep</p></a>
                         </div>
                       </div>
                     </div>
