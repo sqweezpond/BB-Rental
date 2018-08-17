@@ -113,7 +113,7 @@
 									         <a class="nav-link" href="brand.php">ประวัติการเช่า</a>
 									      </li>
 												<li class="nav-item dropdown">
-														<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+														<a class="nav-link dropdown-toggle" href="product.php" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 															เครื่องจักรสำหรับเช่า
 														</a>
 														<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
