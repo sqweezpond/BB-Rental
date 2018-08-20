@@ -34,7 +34,7 @@
                           <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
                              <div class="row">
                                <!-- card-1 -->
-                               <div class="col-lg-6 tab-pane fade show active px-0">
+                               <div class="col-lg-6 col-md-6 col-12 tab-pane fade show active px-0">
                                  <div class="card position-relative pro-hidden">
                                    <div class="row">
                                      <div class="col-lg-5 ">
@@ -79,7 +79,7 @@
                                  <!-- card-1 end -->
 
                                  <!-- card-1 -->
-                                 <div class="col-lg-6 tab-pane fade show active px-0">
+                                 <div class="col-lg-6 col-md-6  col-12 tab-pane fade show active px-0">
                                    <div class="card position-relative pro-hidden">
                                      <div class="row">
                                        <div class="col-lg-5 ">
@@ -118,7 +118,7 @@
                                  </div>
                                    <!-- card-1 end -->
                                    <!-- card-1 -->
-                                   <div class="col-lg-6 tab-pane fade show active px-0">
+                                   <div class="col-lg-6 col-md-6 col-12 tab-pane fade show active px-0">
                                      <div class="card position-relative pro-hidden">
                                        <div class="row">
                                          <div class="col-lg-5 ">
@@ -157,7 +157,7 @@
                                    </div>
                                      <!-- card-1 end -->
                                      <!-- card-1 -->
-                                     <div class="col-lg-6 tab-pane fade show active px-0">
+                                     <div class="col-lg-6 col-md-6 col-12 tab-pane fade show active px-0">
                                        <div class="card position-relative pro-hidden">
                                          <div class="row">
                                            <div class="col-lg-5 ">
@@ -203,7 +203,7 @@
                           <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
                                <div class="row">
                                  <!-- card-1 -->
-                                 <div class="col-lg-6 tab-pane fade show active px-0">
+                                 <div class="col-lg-6 col-md-6 col-12 tab-pane fade show active px-0">
                                    <div class="card position-relative pro-hidden">
                                      <div class="row">
                                        <div class="col-lg-5 ">
@@ -256,7 +256,7 @@
                           <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
                             <div class="row">
                               <!-- card-1 -->
-                              <div class="col-lg-6 tab-pane fade show active px-0">
+                              <div class="col-lg-6 col-md-6 col-12 tab-pane fade show active px-0">
                                 <div class="card position-relative pro-hidden">
                                   <div class="row">
                                     <div class="col-lg-5 ">
@@ -307,7 +307,7 @@
                           <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
                             <div class="row">
                               <!-- card-1 -->
-                              <div class="col-lg-6 tab-pane fade show active px-0">
+                              <div class="col-lg-6 col-md-6 col-12 tab-pane fade show active px-0">
                                 <div class="card position-relative pro-hidden">
                                   <div class="row">
                                     <div class="col-lg-5 ">
@@ -358,7 +358,7 @@
                           <div class="tab-pane fade" id="v-pills-bot" role="tabpanel" aria-labelledby="v-pills-bot-tab">
                             <div class="row">
                               <!-- card-2 -->
-                              <div class="col-lg-6 px-0">
+                              <div class="col-lg-6 col-md-6 col-12 px-0">
                                 <div class="card position-relative pro-hidden">
                                   <div class="row">
                                     <div class="col-lg-5 ">
@@ -409,7 +409,7 @@
                           <div class="tab-pane fade" id="v-pills-kat" role="tabpanel" aria-labelledby="v-pills-kat-tab">
                             <div class="row">
                               <!-- card-2 -->
-                              <div class="col-lg-6 px-0">
+                              <div class="col-lg-6 col-md-6 col-12 px-0">
                                 <div class="card position-relative pro-hidden">
                                   <div class="row">
                                     <div class="col-lg-5 ">
@@ -460,7 +460,7 @@
                           <div class="tab-pane fade" id="v-pills-kan" role="tabpanel" aria-labelledby="v-pills-kan-tab">
                             <div class="row">
                               <!-- card-2 -->
-                              <div class="col-lg-6 px-0">
+                              <div class="col-lg-6 col-md-6 col-12 px-0">
                                 <div class="card position-relative pro-hidden">
                                   <div class="row">
                                     <div class="col-lg-5 ">
@@ -511,7 +511,7 @@
                           <div class="tab-pane fade" id="v-pills-sand" role="tabpanel" aria-labelledby="v-pills-sand-tab">
                             <div class="row">
                               <!-- card-2 -->
-                              <div class="col-lg-6 px-0">
+                              <div class="col-lg-6 col-md-6 col-12 px-0">
                                 <div class="card position-relative pro-hidden">
                                   <div class="row">
                                     <div class="col-lg-5 ">
@@ -562,7 +562,7 @@
                           <div class="tab-pane fade" id="v-pills-soy" role="tabpanel" aria-labelledby="v-pills-soy-tab">
                             <div class="row">
                               <!-- card-2 -->
-                              <div class="col-lg-6 px-0">
+                              <div class="col-lg-6 col-md-6 col-12 px-0">
                                 <div class="card position-relative pro-hidden">
                                   <div class="row">
                                     <div class="col-lg-5 ">

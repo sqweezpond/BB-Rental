@@ -55,7 +55,7 @@
                               <p><span class="mr-2">:</span>b.b.rental@hotmail.com</p>
                             </div>
                               <div class="col-lg-12">
-                                  <p><i class="fab fa-line mr-2" style="color: #054d84;"></i>BBRental</p>
+                                <p><i class="fab fa-line mr-2" style="color: #054d84;"></i>BBRental</p>
                               </div>
                             <div class="col-lg-12">
                                 <p><i class="fab fa-facebook-square mr-2" style="color: #054d84;"></i>BBRental</p>
