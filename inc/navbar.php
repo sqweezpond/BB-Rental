@@ -74,7 +74,7 @@
 												<a href="product.php">รถกระเช้า</a>
 									    </div>
 								  </div>
-									<a href="#" class="nav-m-l">ฝ่ายบริการ</a>
+									<a href="singer-detail.php" class="nav-m-l">ฝ่ายบริการ</a>
 									<a href="contact.php" class="nav-m-l">ติดต่อเรา</a>
 							</div>
 					</div>
