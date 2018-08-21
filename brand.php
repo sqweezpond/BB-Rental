@@ -110,8 +110,8 @@
                           </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
-                          <div class="brand-fix-img">
-                            <img class="brand-img" src="assets/images/logo/18.png"/>
+                          <div class="brand-fix-img-1">
+                            <img class="brand-img-1" src="assets/images/logo/18.png"/>
                           </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
@@ -120,8 +120,8 @@
                           </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
-                          <div class="brand-fix-img">
-                            <img class="brand-img" src="assets/images/logo/20.png"/>
+                          <div class="brand-fix-img-1">
+                            <img class="brand-img-1" src="assets/images/logo/20.png"/>
                           </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
@@ -135,13 +135,13 @@
                           </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
-                          <div class="brand-fix-img">
-                            <img class="brand-img" src="assets/images/logo/23.png"/>
+                          <div class="brand-fix-img-1">
+                            <img class="brand-img-1" src="assets/images/logo/23.png"/>
                           </div>
                         </div>
                         <div class="col-lg-2 col-md-4 col-6">
-                          <div class="brand-fix-img">
-                            <img class="brand-img" src="assets/images/logo/24.png"/>
+                          <div class="brand-fix-img-1">
+                            <img class="brand-img-1" src="assets/images/logo/24.png"/>
                           </div>
                         </div>
                       </div>

@@ -14,7 +14,7 @@
                 <div class="wrapper fadeIn animated">
                    <!-- CONTENT -->
                    <div class="container">
-                     <div class="row my-lg-3 my-0">
+                     <div class="row my-3 my-0">
                        <div class="col-lg-3 col-12  px-0">
                          <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                            <a class="nav-link active pro_nav_tap" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">รถกระเช้าแบบบูมพับ</a>

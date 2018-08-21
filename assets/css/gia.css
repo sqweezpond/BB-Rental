@@ -13,6 +13,16 @@
 .line-h-15{
   line-height: 15px;
 }
+a:hover {
+    color: #333;
+    text-decoration: none;
+}
+a {
+    color: #212529;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
 /*-------all end-------------*/
 
 /*-------brand-----------*/
@@ -37,6 +47,22 @@
   width: 70%;
 
 }
+/*คลาส สำหรับภาพแนวตั้ง*/
+.brand-fix-img-1{
+  position: relative;
+  overflow: hidden;
+  width: 70%;
+  height: 10vmin;
+}
+.brand-img-1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 70%;
+
+}
+/*คลาส สำหรับภาพแนวตั้ง*/
 /*-------brand end---------*/
 
 /*--------contact----------*/
@@ -252,6 +278,38 @@
 /*---------product-detail end------*/
 
 
+/*---------singer detail-------------*/
+
+.singer-fix-img{
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 60vmin;
+}
+.singer-img{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 100%;
+}
+.singer-fix-img-1{
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 40vmin;
+}
+.singer-img-1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 100%;
+}
+/*---------singer detail end-----------*/
+
+
+
 
 
 
@@ -275,22 +333,7 @@
     width: 100%;
     height: 80vmin;
 }
-.pro-sale-pomo {
-    background-color: red;
-    color: #fff;
-    position: absolute;
-    width: 136%;
-    -webkit-transform-origin: 0 0;
-    -webkit-transform: rotate(45deg);
-    left: 11rem;
-    top: -11rem;
-    text-align: center;
-}
-.pro-bg-1 {
-    background-color: #9e9e9e4a;
-    margin: 0px 0px 0px 0px;
-    padding: 5px 0px 0px 0px;
-}
+
 .detail-fix-img {
     position: relative;
     overflow: hidden;
@@ -337,41 +380,82 @@
     width: 100%;
     height: 55vmin;
 }
-
+.brand-fix-img-1 {
+    position: relative;
+    overflow: hidden;
+    width: 70%;
+    height: 30vmin;
+}
+.brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 25vmin;
+}
+.pro-bg-1 {
+    background-color: #9e9e9e4a;
+    margin: 0px 10px 0px 10px;
+    padding: 5px 0px 0px 0px;
+}
+.pro-bg-0 {
+    margin: 0px 10px 0px 10px;
+    padding: 5px 0px 0px 0px;
+}
+.pro-sale-pomo {
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    width: 140%;
+    -webkit-transform-origin: 0 0;
+    -webkit-transform: rotate(45deg);
+    left: 8rem;
+    top: -8rem;
+    text-align: center;
+}
+.detail-img {
+    width: 45% !important;
+    position: absolute;
+    transition: all 0.5s;
+    border-radius: 0px;
+    transform: scale(1.5);
+    top: 90px;
+    left: 35px;
+    cursor: pointer;
+}
+.detail-img:hover {
+    width:45% !important;
+    position: absolute;
+    transform: scale(1.7);
+    transition: all 0.5s;
+    opacity: 0.9;
+    cursor: pointer;
+}
 
 
 }
 
-
-
-
-@media (min-width: 248px) {
+@media (min-width: 414px) {
   .pro-sale-pomo {
     background-color: red;
     color: #fff;
     position: absolute;
-    width: 80%;
+    width: 145%;
     -webkit-transform-origin: 0 0;
     -webkit-transform: rotate(45deg);
-    left: 9rem;
-    top: -2rem;
+    left: 10rem;
+    top: -11rem;
     text-align: center;
 }
 
+}
 
-@media (min-width: 290px) {
-  .pro-sale-pomo {
-    background-color: red;
-    color: #fff;
-    position: absolute;
-    width: 106%;
-    -webkit-transform-origin: 0 0;
-    -webkit-transform: rotate(45deg);
-    left: 9rem;
-    top: -5rem;
-    text-align: center;
-}
-}
+
+
+
+
+
+
+
 
 @media (min-width: 444px) {
   .pro-sale-pomo {
@@ -388,9 +472,33 @@
 
 }
 
-
+@media (min-width: 460px) {
+  .detail-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 40vmin;
+}
 
 }
+
+
+@media (min-width: 552px) {
+  .pro-sale-pomo {
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    width: 163%;
+    -webkit-transform-origin: 0 0;
+    -webkit-transform: rotate(45deg);
+    left: 11rem;
+    top: -17rem;
+    text-align: center;
+}
+
+}
+
+
 
 
 @media (min-width: 554px)  {
@@ -463,6 +571,19 @@
     width: 100%;
     height: 117vmin;
 }
+.brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 40vmin;
+}
+.brand-fix-img-1 {
+    position: relative;
+    overflow: hidden;
+    width: 70%;
+    height: 55vmin;
+}
+
 
 }
 
@@ -544,6 +665,24 @@
   font-size: small;
   padding: 5px 20px 0px 20px;
 }
+.brand-fix-img-1 {
+    position: relative;
+    overflow: hidden;
+    width: 70%;
+    height: 30vmin;
+}
+.detail-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 85vmin;
+}
+
+}
+
+
+
+
 
 @media (min-width: 582px) {
   .detail-fix-img {
@@ -568,7 +707,7 @@
 }
 
 
-}
+
 
 /*ไอโพน6 แนวนอน*/
 @media (min-width: 667px)  {
@@ -590,6 +729,24 @@
     width: 100%;
     height: 110vmin;
 }
+.brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 40vmin;
+}
+.brand-fix-img-1 {
+    position: relative;
+    overflow: hidden;
+    width: 70%;
+    height: 40vmin;
+}
+.detail-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 25vmin;
+}
 
 
 }
@@ -600,6 +757,22 @@
     overflow: hidden;
     width: 100%;
     height: 65vmin;
+}
+
+}
+
+@media (min-width: 672px) {
+  .brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 20vmin;
+}
+.brand-fix-img-1 {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 30vmin;
 }
 
 }
@@ -659,6 +832,19 @@
     height: 20vmin;
 }
 
+.brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 32vmin;
+}
+.brand-fix-img-1 {
+    position: relative;
+    overflow: hidden;
+    width: 70%;
+    height: 35vmin;
+}
+
 }
 
 @media (min-width: 739px) {
@@ -667,6 +853,23 @@
     overflow: hidden;
     width: 100%;
     height: 60vmin;
+}
+
+}
+
+
+@media (min-width: 754px) {
+  .brand-fix-img {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 17vmin;
+}
+.brand-fix-img-1 {
+    position: relative;
+    overflow: hidden;
+    width: 70%;
+    height: 22vmin;
 }
 
 }
@@ -685,6 +888,16 @@
     height: 20vmin;
 }
 
+
+}
+
+@media (min-width: 770px) {
+  .brand-fix-img-1 {
+    position: relative;
+    overflow: hidden;
+    width: 70%;
+    height: 18vmin;
+}
 
 }
 
@@ -808,8 +1021,24 @@
     padding: 10px 5px 0px 5px;
 
 }
+.brand-fix-img-1 {
+    position: relative;
+    overflow: hidden;
+    width: 70%;
+    height: 10vmin;
+}
 
 
+
+}
+
+@media (min-width: 1000px) {
+  .brand-fix-img-1 {
+    position: relative;
+    overflow: hidden;
+    width: 70%;
+    height: 10vmin;
+}
 
 }
 

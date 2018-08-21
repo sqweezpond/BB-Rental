@@ -58,7 +58,7 @@
                                 <a href="#"><p><i class="fab fa-line mr-2" style="color: #054d84;"></i>BBRental</p></a>
                               </div>
                             <div class="col-lg-12">
-                                <p><i class="fab fa-facebook-square mr-2" style="color: #054d84;"></i>BBRental</p>
+                                <a href="#" ><p><i class="fab fa-facebook-square mr-2" style="color: #054d84;"></i>BBRental</p></a>
                             </div>
                           </div>
                         </div>
