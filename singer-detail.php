@@ -16,7 +16,7 @@
 
        <div class="container pb-5">
            <div class="row mx-0 mt-4 justify-content-center">
-             <div class="home-font">"มาเร็ว ซ่อมเร็ว เสร้จเร็ว"</div>
+             <div class="home-font">"มาเร็ว ซ่อมเร็ว เสร็จเร็ว"</div>
            </div>
            <div class="row my-5">
              <div class="col-lg-6">

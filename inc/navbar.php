@@ -129,7 +129,7 @@
 														</div>
 												</li>
 												<li class="nav-item">
-													 <a class="nav-link" href="#">ฝ่ายบริการ</a>
+													 <a class="nav-link" href="singer-detail.php">ฝ่ายบริการ</a>
 											  </li>
 											  <li class="nav-item">
 													 <a class="nav-link" href="contact.php">ติดต่อเรา</a>
