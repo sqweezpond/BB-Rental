@@ -44,20 +44,45 @@
                                      </div>
                                      <div class="col-lg-7 ">
                                        <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
-                                       <div class="pro-bg-1">
-                                         <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                       <div class="row pro-bg-1 my-3">
+                                         <div  class="col-7 pro_text-1 px-1">
+                                           Platform height
+                                         </div>
+                                         <div class="col-5 pro_text-1 px-1">
+                                           457m
+                                         </div>
                                        </div>
-                                       <div class="pro-bg-0">
-                                         <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                       <div class="row pro-bg-0 my-3">
+                                         <div  class="col-7 pro_text-1 px-1">
+                                           Platform Length
+                                         </div>
+                                         <div class="col-5 pro_text-1 px-1">
+                                           2.26m
+                                         </div>
                                        </div>
-                                       <div class="pro-bg-1">
-                                         <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                       <div class="row pro-bg-1 my-3">
+                                         <div  class="col-7 pro_text-1 px-1">
+                                           width
+                                         </div>
+                                         <div class="col-5 pro_text-1 px-1">
+                                           0.18m
+                                         </div>
                                        </div>
-                                       <div class="pro-bg-0">
-                                         <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                       <div class="row pro-bg-0 my-3">
+                                         <div  class="col-7 pro_text-1 px-1">
+                                           Lift capacity
+                                         </div>
+                                         <div class="col-5 pro_text-1 px-1">
+                                           363kg
+                                         </div>
                                        </div>
-                                       <div class="pro-bg-1">
-                                         <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                       <div class="row pro-bg-1 my-3">
+                                         <div  class="col-7 pro_text-1 px-1">
+                                           Power souece
+                                         </div>
+                                         <div class="col-5 pro_text-1 px-1">
+                                           Betterries
+                                         </div>
                                        </div>
                                        <div class="row mx-0 my-3 justify-content-center">
                                          <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
@@ -89,20 +114,45 @@
                                        </div>
                                        <div class="col-lg-7 ">
                                          <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
-                                         <div class="pro-bg-1">
-                                           <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                         <div class="row pro-bg-1 my-3">
+                                           <div  class="col-7 pro_text-1 px-1">
+                                             Platform height
+                                           </div>
+                                           <div class="col-5 pro_text-1 px-1">
+                                             457m
+                                           </div>
                                          </div>
-                                         <div class="pro-bg-0">
-                                           <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                         <div class="row pro-bg-0 my-3">
+                                           <div  class="col-7 pro_text-1 px-1">
+                                             Platform Length
+                                           </div>
+                                           <div class="col-5 pro_text-1 px-1">
+                                             2.26m
+                                           </div>
                                          </div>
-                                         <div class="pro-bg-1">
-                                           <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                         <div class="row pro-bg-1 my-3">
+                                           <div  class="col-7 pro_text-1 px-1">
+                                             width
+                                           </div>
+                                           <div class="col-5 pro_text-1 px-1">
+                                             0.18m
+                                           </div>
                                          </div>
-                                         <div class="pro-bg-0">
-                                           <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                         <div class="row pro-bg-0 my-3">
+                                           <div  class="col-7 pro_text-1 px-1">
+                                             Lift capacity
+                                           </div>
+                                           <div class="col-5 pro_text-1 px-1">
+                                             363kg
+                                           </div>
                                          </div>
-                                         <div class="pro-bg-1">
-                                           <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                         <div class="row pro-bg-1 my-3">
+                                           <div  class="col-7 pro_text-1 px-1">
+                                             Power souece
+                                           </div>
+                                           <div class="col-5 pro_text-1 px-1">
+                                             Betterries
+                                           </div>
                                          </div>
                                          <div class="row mx-0 my-3 justify-content-center">
                                            <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
@@ -128,20 +178,45 @@
                                          </div>
                                          <div class="col-lg-7 ">
                                            <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
-                                           <div class="pro-bg-1">
-                                             <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                           <div class="row pro-bg-1 my-3">
+                                             <div  class="col-7 pro_text-1 px-1">
+                                               Platform height
+                                             </div>
+                                             <div class="col-5 pro_text-1 px-1">
+                                               457m
+                                             </div>
                                            </div>
-                                           <div class="pro-bg-0">
-                                             <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                           <div class="row pro-bg-0 my-3">
+                                             <div  class="col-7 pro_text-1 px-1">
+                                               Platform Length
+                                             </div>
+                                             <div class="col-5 pro_text-1 px-1">
+                                               2.26m
+                                             </div>
                                            </div>
-                                           <div class="pro-bg-1">
-                                             <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                           <div class="row pro-bg-1 my-3">
+                                             <div  class="col-7 pro_text-1 px-1">
+                                               width
+                                             </div>
+                                             <div class="col-5 pro_text-1 px-1">
+                                               0.18m
+                                             </div>
                                            </div>
-                                           <div class="pro-bg-0">
-                                             <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                           <div class="row pro-bg-0 my-3">
+                                             <div  class="col-7 pro_text-1 px-1">
+                                               Lift capacity
+                                             </div>
+                                             <div class="col-5 pro_text-1 px-1">
+                                               363kg
+                                             </div>
                                            </div>
-                                           <div class="pro-bg-1">
-                                             <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                           <div class="row pro-bg-1 my-3">
+                                             <div  class="col-7 pro_text-1 px-1">
+                                               Power souece
+                                             </div>
+                                             <div class="col-5 pro_text-1 px-1">
+                                               Betterries
+                                             </div>
                                            </div>
                                            <div class="row mx-0 my-3 justify-content-center">
                                              <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
@@ -167,20 +242,45 @@
                                            </div>
                                            <div class="col-lg-7 ">
                                              <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
-                                             <div class="pro-bg-1">
-                                               <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                             <div class="row pro-bg-1 my-3">
+                                               <div  class="col-7 pro_text-1 px-1">
+                                                 Platform height
+                                               </div>
+                                               <div class="col-5 pro_text-1 px-1">
+                                                 457m
+                                               </div>
                                              </div>
-                                             <div class="pro-bg-0">
-                                               <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                             <div class="row pro-bg-0 my-3">
+                                               <div  class="col-7 pro_text-1 px-1">
+                                                 Platform Length
+                                               </div>
+                                               <div class="col-5 pro_text-1 px-1">
+                                                 2.26m
+                                               </div>
                                              </div>
-                                             <div class="pro-bg-1">
-                                               <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                             <div class="row pro-bg-1 my-3">
+                                               <div  class="col-7 pro_text-1 px-1">
+                                                 width
+                                               </div>
+                                               <div class="col-5 pro_text-1 px-1">
+                                                 0.18m
+                                               </div>
                                              </div>
-                                             <div class="pro-bg-0">
-                                               <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                             <div class="row pro-bg-0 my-3">
+                                               <div  class="col-7 pro_text-1 px-1">
+                                                 Lift capacity
+                                               </div>
+                                               <div class="col-5 pro_text-1 px-1">
+                                                 363kg
+                                               </div>
                                              </div>
-                                             <div class="pro-bg-1">
-                                               <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                             <div class="row pro-bg-1 my-3">
+                                               <div  class="col-7 pro_text-1 px-1">
+                                                 Power souece
+                                               </div>
+                                               <div class="col-5 pro_text-1 px-1">
+                                                 Betterries
+                                               </div>
                                              </div>
                                              <div class="row mx-0 my-3 justify-content-center">
                                                <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
@@ -213,20 +313,45 @@
                                        </div>
                                        <div class="col-lg-7 ">
                                          <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
-                                         <div class="pro-bg-1">
-                                           <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                         <div class="row pro-bg-1 my-3">
+                                           <div  class="col-7 pro_text-1 px-1">
+                                             Platform height
+                                           </div>
+                                           <div class="col-5 pro_text-1 px-1">
+                                             457m
+                                           </div>
                                          </div>
-                                         <div class="pro-bg-0">
-                                           <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                         <div class="row pro-bg-0 my-3">
+                                           <div  class="col-7 pro_text-1 px-1">
+                                             Platform Length
+                                           </div>
+                                           <div class="col-5 pro_text-1 px-1">
+                                             2.26m
+                                           </div>
                                          </div>
-                                         <div class="pro-bg-1">
-                                           <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                         <div class="row pro-bg-1 my-3">
+                                           <div  class="col-7 pro_text-1 px-1">
+                                             width
+                                           </div>
+                                           <div class="col-5 pro_text-1 px-1">
+                                             0.18m
+                                           </div>
                                          </div>
-                                         <div class="pro-bg-0">
-                                           <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                         <div class="row pro-bg-0 my-3">
+                                           <div  class="col-7 pro_text-1 px-1">
+                                             Lift capacity
+                                           </div>
+                                           <div class="col-5 pro_text-1 px-1">
+                                             363kg
+                                           </div>
                                          </div>
-                                         <div class="pro-bg-1">
-                                           <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                         <div class="row pro-bg-1 my-3">
+                                           <div  class="col-7 pro_text-1 px-1">
+                                             Power souece
+                                           </div>
+                                           <div class="col-5 pro_text-1 px-1">
+                                             Betterries
+                                           </div>
                                          </div>
                                          <div class="row mx-0 my-3 justify-content-center">
                                            <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
@@ -266,20 +391,45 @@
                                     </div>
                                     <div class="col-lg-7 ">
                                       <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform height
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          457m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform Length
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          2.26m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          width
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          0.18m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Lift capacity
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          363kg
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Power souece
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          Betterries
+                                        </div>
                                       </div>
                                       <div class="row mx-0 my-3 justify-content-center">
                                         <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
@@ -317,20 +467,45 @@
                                     </div>
                                     <div class="col-lg-7 ">
                                       <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform height
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          457m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform Length
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          2.26m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          width
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          0.18m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Lift capacity
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          363kg
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Power souece
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          Betterries
+                                        </div>
                                       </div>
                                       <div class="row mx-0 my-3 justify-content-center">
                                         <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
@@ -368,20 +543,45 @@
                                     </div>
                                     <div class="col-lg-7 ">
                                       <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform height
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          457m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform Length
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          2.26m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          width
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          0.18m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Lift capacity
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          363kg
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Power souece
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          Betterries
+                                        </div>
                                       </div>
                                       <div class="row mx-0 my-3 justify-content-center">
                                         <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
@@ -419,20 +619,45 @@
                                     </div>
                                     <div class="col-lg-7 ">
                                       <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform height
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          457m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform Length
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          2.26m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          width
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          0.18m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Lift capacity
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          363kg
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Power souece
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          Betterries
+                                        </div>
                                       </div>
                                       <div class="row mx-0 my-3 justify-content-center">
                                         <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
@@ -470,20 +695,45 @@
                                     </div>
                                     <div class="col-lg-7 ">
                                       <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform height
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          457m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform Length
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          2.26m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          width
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          0.18m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Lift capacity
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          363kg
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Power souece
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          Betterries
+                                        </div>
                                       </div>
                                       <div class="row mx-0 my-3 justify-content-center">
                                         <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
@@ -521,20 +771,45 @@
                                     </div>
                                     <div class="col-lg-7 ">
                                       <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform height
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          457m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform Length
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          2.26m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          width
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          0.18m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Lift capacity
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          363kg
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Power souece
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          Betterries
+                                        </div>
                                       </div>
                                       <div class="row mx-0 my-3 justify-content-center">
                                         <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
@@ -572,21 +847,47 @@
                                     </div>
                                     <div class="col-lg-7 ">
                                       <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform height
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          457m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Platform Length<span class="pro-m-2">2.26m</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Platform Length
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          2.26m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">width<span class="pro-m-3">0.18m</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          width
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          0.18m
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-0">
-                                        <p class="pro_text-1">Lift capacity<span class="pro-m-4">363kg</span></p>
+                                      <div class="row pro-bg-0 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Lift capacity
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          363kg
+                                        </div>
                                       </div>
-                                      <div class="pro-bg-1">
-                                        <p class="pro_text-1">Power souece<span  class="pro-m-5">Betterries</span></p>
+                                      <div class="row pro-bg-1 my-3">
+                                        <div  class="col-7 pro_text-1 px-1">
+                                          Power souece
+                                        </div>
+                                        <div class="col-5 pro_text-1 px-1">
+                                          Betterries
+                                        </div>
                                       </div>
+
                                       <div class="row mx-0 my-3 justify-content-center">
                                         <div class="col-lg-6 col-md-6 col-6 text-center px-md-1 px-2">
                                           <a href="#"><button type="button" class="btn btn-primary pro-btn-1 text-center"><p class="mb-0"><i class="far fa-arrow-alt-circle-down mr-2"></i>Download</p> <span>Spec Sheep</span></button></a>
