@@ -43,7 +43,7 @@
                                        </div>
                                      </div>
                                      <div class="col-lg-7 ">
-                                       <p class="pro_text my-3">GS-1532</p>
+                                       <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
                                        <div class="pro-bg-1">
                                          <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
                                        </div>
@@ -79,7 +79,7 @@
                                  <!-- card-1 end -->
 
                                  <!-- card-1 -->
-                                 <div class="col-lg-6 col-md-6  col-12 tab-pane fade show active px-0">
+                                 <div class="col-lg-6 col-md-6  col-12  tab-pane fade show active px-0">
                                    <div class="card position-relative pro-hidden">
                                      <div class="row">
                                        <div class="col-lg-5 ">
@@ -88,7 +88,7 @@
                                          </div>
                                        </div>
                                        <div class="col-lg-7 ">
-                                         <p class="pro_text my-3">GS-1532</p>
+                                         <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
                                          <div class="pro-bg-1">
                                            <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
                                          </div>
@@ -127,7 +127,7 @@
                                            </div>
                                          </div>
                                          <div class="col-lg-7 ">
-                                           <p class="pro_text my-3">GS-1532</p>
+                                           <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
                                            <div class="pro-bg-1">
                                              <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
                                            </div>
@@ -166,7 +166,7 @@
                                              </div>
                                            </div>
                                            <div class="col-lg-7 ">
-                                             <p class="pro_text my-3">GS-1532</p>
+                                             <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
                                              <div class="pro-bg-1">
                                                <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
                                              </div>
@@ -212,7 +212,7 @@
                                          </div>
                                        </div>
                                        <div class="col-lg-7 ">
-                                         <p class="pro_text my-3">GS-1532</p>
+                                         <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
                                          <div class="pro-bg-1">
                                            <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
                                          </div>
@@ -265,7 +265,7 @@
                                       </div>
                                     </div>
                                     <div class="col-lg-7 ">
-                                      <p class="pro_text my-3">GS-1532</p>
+                                      <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
                                       <div class="pro-bg-1">
                                         <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
                                       </div>
@@ -316,7 +316,7 @@
                                       </div>
                                     </div>
                                     <div class="col-lg-7 ">
-                                      <p class="pro_text my-3">GS-1532</p>
+                                      <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
                                       <div class="pro-bg-1">
                                         <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
                                       </div>
@@ -367,7 +367,7 @@
                                       </div>
                                     </div>
                                     <div class="col-lg-7 ">
-                                      <p class="pro_text my-3">GS-1532</p>
+                                      <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
                                       <div class="pro-bg-1">
                                         <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
                                       </div>
@@ -418,7 +418,7 @@
                                       </div>
                                     </div>
                                     <div class="col-lg-7 ">
-                                      <p class="pro_text my-3">GS-1532</p>
+                                      <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
                                       <div class="pro-bg-1">
                                         <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
                                       </div>
@@ -469,7 +469,7 @@
                                       </div>
                                     </div>
                                     <div class="col-lg-7 ">
-                                      <p class="pro_text my-3">GS-1532</p>
+                                      <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
                                       <div class="pro-bg-1">
                                         <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
                                       </div>
@@ -520,7 +520,7 @@
                                       </div>
                                     </div>
                                     <div class="col-lg-7 ">
-                                      <p class="pro_text my-3">GS-1532</p>
+                                      <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
                                       <div class="pro-bg-1">
                                         <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
                                       </div>
@@ -571,7 +571,7 @@
                                       </div>
                                     </div>
                                     <div class="col-lg-7 ">
-                                      <p class="pro_text my-3">GS-1532</p>
+                                      <p class="pro_text my-3 ml-lg-0 ml-2">GS-1532</p>
                                       <div class="pro-bg-1">
                                         <p class="pro_text-1">Platform height<span class="pro-m-1">457m</span></p>
                                       </div>
